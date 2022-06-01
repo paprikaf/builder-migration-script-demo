@@ -1,0 +1,2747 @@
+{
+    "id": 10689,
+    "title": "Produto: Home | Score",
+    "status": "publish",
+    "date": "28 de outubro de 2021",
+    "metaTags": {
+        "title": "Consultar Score Grátis e Online - Serasa Score 2.0",
+        "description": "Veja como consultar seu Score grátis. Saiba como aumentar seu Serasa Score, e ainda, porque seu Score é baixo. Tenha um Score campeão!",
+        "ogTitle": null,
+        "ogDescription": null,
+        "ogImage": null,
+        "twitterTitle": null,
+        "twitterImage": null,
+        "twitterDescription": null,
+        "keyword": "Consultar Score Grátis e online"
+    },
+    "template": "product",
+    "theme": "serasa",
+    "url": "/score",
+    "canonical": "https://www.serasa.com.br/score/",
+    "events": [
+        {
+            "attr": "page_title",
+            "value": "Serasa Score - Home"
+        },
+        {
+            "attr": "page_path",
+            "value": "/score"
+        },
+        {
+            "attr": "ambiente",
+            "value": "deslogado"
+        },
+        {
+            "attr": "area",
+            "value": "home"
+        },
+        {
+            "attr": "vertical_produto",
+            "value": "serasa-score"
+        },
+        {
+            "attr": "categoria",
+            "value": "serasa-score-home"
+        },
+        {
+            "attr": "acao",
+            "value": "entrar-tela"
+        },
+        {
+            "attr": "rotulo",
+            "value": "home"
+        }
+    ],
+    "schemas": [
+        {
+            "schema": "{  \"@context\": \"https://schema.org\",  \"@type\": \"FAQPage\",  \"mainEntity\": [{      \"@type\": \"Question\",      \"name\": \"CPF na nota aumenta score?\",      \"acceptedAnswer\": {          \"@type\": \"Answer\",          \"text\": \"Não. A inclusão do CPF na nota fiscal não faz parte das informações que são usadas para o cálculo do seu Serasa Score. Assim, colocar ou não o CPF na nota não afeta sua pontuação.\"      }  }, {      \"@type\": \"Question\",      \"name\": \"Meu score está oscilando. Devo me preocupar?\",      \"acceptedAnswer\": {          \"@type\": \"Answer\",          \"text\": \"Oscilações de até 50 pontos são normais e não geram muito impacto. Para o mercado o que mais importa é o seu perfil financeiro, representado pela sua faixa de risco. Por isso, é mais importante entender a sua faixa e tentar continuar dentro dela – ou avançar para uma melhor – do que se preocupar com as oscilações. Confira as faixas de risco do Serasa Score 2.0 de acordo com a sua pontuação: Classificação de score: Excelente, de 701-1000. Bom, de 501-700. Regular, 301-500. Baixo, 0-300.\"      }  }, {      \"@type\": \"Question\",      \"name\": \"Como aumentar o meu score?\",      \"acceptedAnswer\": {          \"@type\": \"Answer\",          \"text\": \"É possível, sim, aumentar seus pontos por meio de algumas iniciativas. Porém, as ações para aumentar o score não têm efeito imediato. Existe uma lista de boas práticas para alcançar uma pontuação melhor: limpar o nome, pagar as contas em dia, ter os dados atualizados na Serasa e manter seu Cadastro Positivo ativo são algumas delas. Para mais dicas financeiras, visite o Blog Serasa Ensina.\"      }  }, {      \"@type\": \"Question\",      \"name\": \"Meu score caiu, e agora?\",      \"acceptedAnswer\": {          \"@type\": \"Answer\",          \"text\": \"Descubra por que seu score caiu consultando grátis sua pontuação no site ou aplicativo da Serasa. Lá, você tem acesso ao histórico da sua pontuação e vê os principais motivos que estão fazendo seus pontos aumentarem ou diminuírem. Assim, fica mais fácil ajustar os comportamentos que estão prejudicando seu score.\"      }  }, {      \"@type\": \"Question\",      \"name\": \"Por que meu score é baixo?\",      \"acceptedAnswer\": {          \"@type\": \"Answer\",          \"text\": \"O score representa seu perfil de crédito. Quando você está com sua pontuação baixa, isso indica que, com base no seu comportamento financeiro, as chances de pagar as contas em dia também são baixas. Consequentemente, pode haver uma dificuldade de acesso a empréstimos, cartões de crédito, financiamentos e outras linhas de crédito. Você pode consultar seu score grátis na Serasa a qualquer momento e descobrir quais motivos estão fazendo a sua pontuação cair.\"      }  }]}"
+        }
+    ],
+    "menu": {
+        "menus": [
+            {
+                "title": "Ir para home",
+                "type": "link",
+                "href": "/score/",
+                "items": false
+            },
+            {
+                "title": "A Serasa",
+                "type": "dropdown",
+                "href": "",
+                "items": [
+                    {
+                        "title": "Carreiras",
+                        "href": "/carreiras/"
+                    },
+                    {
+                        "title": "Sala de imprensa",
+                        "href": "/imprensa/"
+                    }
+                ]
+            },
+            {
+                "title": "Central de ajuda",
+                "type": "link",
+                "href": "https://ajuda.serasa.com.br/hc/pt-br",
+                "items": false
+            },
+            {
+                "title": "Blog",
+                "type": "link",
+                "href": "https://www.serasa.com.br/score/blog",
+                "items": false
+            },
+            {
+                "title": "Colunistas",
+                "type": "dropdown",
+                "href": "",
+                "items": [
+                    {
+                        "title": "Elaine Ortiz",
+                        "href": "https://www.serasa.com.br/blog/colunista-elaine-ortiz/"
+                    },
+                    {
+                        "title": "Vanessa Ferreira",
+                        "href": "https://www.serasa.com.br/blog/colunista-vanessa-ferreira/"
+                    },
+                    {
+                        "title": "Marlise Brenol",
+                        "href": "https://www.serasa.com.br/blog/colunista-marlise-brenol/"
+                    },
+                    {
+                        "title": "Veridiana Lopes",
+                        "href": "https://www.serasa.com.br/blog/colunista-veridiana-lopes/"
+                    },
+                    {
+                        "title": "Fabiana Ramos",
+                        "href": "https://www.serasa.com.br/blog/colunista-fabiana-ramos/"
+                    }
+                ]
+            }
+        ],
+        "menuEvents": false,
+        "products": [
+            {
+                "title": "Consultar seu CPF",
+                "href": "/",
+                "icon": "https://www.serasa.com.br/lno/static-webfiles/logo/serasa-icon.svg"
+            },
+            {
+                "title": "Pagar minhas dívidas",
+                "href": "/limpa-nome-online/",
+                "icon": "https://www.serasa.com.br/lno/static-webfiles/common/products/square/limpa-nome.svg"
+            },
+            {
+                "title": "Proteger meus dados",
+                "href": "/antifraude/",
+                "icon": "https://www.serasa.com.br/lno/static-webfiles/common/products/square/antifraude.svg"
+            },
+            {
+                "title": "Consultar meu score",
+                "href": "/score/",
+                "icon": "https://www.serasa.com.br/lno/static-webfiles/common/products/square/score.svg"
+            },
+            {
+                "title": "Solicitar crédito",
+                "href": "/ecred/",
+                "icon": "https://www.serasa.com.br/lno/static-webfiles/common/products/square/ecred.svg"
+            },
+            {
+                "title": "Seja parceiro",
+                "href": "/seja-parceiro/",
+                "icon": "https://www.serasa.com.br/lno/static-webfiles/logo/serasa-icon.svg"
+            }
+        ],
+        "productsEvents": false,
+        "logo": {
+            "alt": "Ir para Home",
+            "href": "/score/",
+            "icon": "https://www.serasa.com.br/lno/static-webfiles/common/products/score-white.svg",
+            "events": false
+        },
+        "signUp": {
+            "href": "/cadastrar?product=score&redirectUrl=/score/meu-score",
+            "events": false
+        },
+        "signIn": {
+            "href": "/entrar?product=score&redirectUrl=/area-cliente/",
+            "events": false
+        },
+        "menuButtonEvents": false
+    },
+    "footer": {
+        "columns": [
+            {
+                "title": "O que você precisa?",
+                "items": [
+                    {
+                        "title": "Consultar meu CPF",
+                        "href": "/consultar-meu-cpf/"
+                    },
+                    {
+                        "title": "Pedir empréstimo online",
+                        "href": "/ecred/"
+                    },
+                    {
+                        "title": "Limpar meu nome",
+                        "href": "/limpa-nome-online/"
+                    },
+                    {
+                        "title": "Consultar pontuação do Score",
+                        "href": "/score/"
+                    },
+                    {
+                        "title": "Turbinar o meu Score",
+                        "href": "/score/turbo/"
+                    },
+                    {
+                        "title": "Negociar minhas dívidas",
+                        "href": "/limpa-nome-online/"
+                    },
+                    {
+                        "title": "Monitorar meu CPF",
+                        "href": "/premium/"
+                    },
+                    {
+                        "title": "Monitoramento Dark Web",
+                        "href": "/premium/darkweb/"
+                    },
+                    {
+                        "title": "Falar com a Serasa",
+                        "href": "/atendimento/"
+                    },
+                    {
+                        "title": "Atualizar meus dados",
+                        "href": "/outros-servicos/atualizacao_de_cadastro/"
+                    },
+                    {
+                        "title": "Soluções para empresas",
+                        "href": "//www.serasaexperian.com.br"
+                    }
+                ]
+            },
+            {
+                "title": "Todos os sites",
+                "items": [
+                    {
+                        "title": "Serasa eCred",
+                        "href": "/ecred/"
+                    },
+                    {
+                        "title": "Serasa Premium",
+                        "href": "/premium/"
+                    },
+                    {
+                        "title": "Serasa Score",
+                        "href": "/score/"
+                    },
+                    {
+                        "title": "Serasa Limpa Nome",
+                        "href": "/limpa-nome-online/"
+                    },
+                    {
+                        "title": "Serasa Cadastro Positivo",
+                        "href": "/cadastro-positivo/"
+                    },
+                    {
+                        "title": "Serasa Ensina",
+                        "href": "/ensina/"
+                    },
+                    {
+                        "title": "Serasa Você Consulta",
+                        "href": "/voceconsulta/"
+                    }
+                ]
+            },
+            {
+                "title": "Atendimento",
+                "items": [
+                    {
+                        "title": "Pontos de Atendimento",
+                        "href": "/sc-atendimento/agencias/"
+                    },
+                    {
+                        "title": "Telefones",
+                        "href": "/atendimento/"
+                    },
+                    {
+                        "title": "Central de Ajuda",
+                        "href": "https://ajuda.serasaconsumidor.com.br/"
+                    }
+                ]
+            },
+            {
+                "title": "Outros Serviços",
+                "items": [
+                    {
+                        "title": "Atualizar meus dados",
+                        "href": "/outros-servicos/atualizacao_de_cadastro/"
+                    },
+                    {
+                        "title": "Como consultar seu CPF",
+                        "href": "/consultar-meu-cpf/"
+                    },
+                    {
+                        "title": "Proteger meus documentos",
+                        "href": "https://ajuda.serasa.com.br/hc/pt-br/articles/360012555551-Perdi-meus-documentos-e-agora-"
+                    },
+                    {
+                        "title": "Carta comunicado",
+                        "href": "/carta-serasa-experian/"
+                    },
+                    {
+                        "title": "Empresas que consultam meu CPF",
+                        "href": "/consultas-ao-meu-cpf/"
+                    }
+                ]
+            }
+        ],
+        "columnsEvents": [
+            {
+                "attr": "data-vars-action",
+                "value": "clique-link"
+            }
+        ],
+        "social": [
+            {
+                "title": "facebook",
+                "href": "//www.facebook.com/serasa.com.br",
+                "icon": "https://www.serasaconsumidor.com.br/_next/static/images/facebook-71796a3c52059a3bf1e2e66312055b97.svg",
+                "events": [
+                    {
+                        "attr": "data-vars-action",
+                        "value": "clique-link"
+                    },
+                    {
+                        "attr": "data-vars-label",
+                        "value": "perfil-facebook"
+                    }
+                ]
+            },
+            {
+                "title": "youtube",
+                "href": "//youtube.com/SerasaConsumidor",
+                "icon": "https://www.serasaconsumidor.com.br/_next/static/images/youtube-66ba7ab3b8045be37ac322b19d0d9595.svg",
+                "events": [
+                    {
+                        "attr": "data-vars-action",
+                        "value": "clique-link"
+                    },
+                    {
+                        "attr": "data-vars-label",
+                        "value": "perfil-youtube"
+                    }
+                ]
+            },
+            {
+                "title": "instagram",
+                "href": "//instagram.com/serasa",
+                "icon": "https://www.serasaconsumidor.com.br/_next/static/images/instagram-99311a94ecb98575857e857d6d668c1e.svg",
+                "events": [
+                    {
+                        "attr": "data-vars-action",
+                        "value": "clique-link"
+                    },
+                    {
+                        "attr": "data-vars-label",
+                        "value": "perfil-instagram"
+                    }
+                ]
+            },
+            {
+                "title": "linkedin",
+                "href": "//www.linkedin.com/company/serasa",
+                "icon": "https://www.serasaconsumidor.com.br/_next/static/images/linkedin-02d8729d08b8944c81c9ed7a57084fd9.svg",
+                "events": [
+                    {
+                        "attr": "data-vars-action",
+                        "value": "clique-link"
+                    },
+                    {
+                        "attr": "data-vars-label",
+                        "value": "perfil-linkedin"
+                    }
+                ]
+            }
+        ],
+        "apps": [
+            {
+                "title": "android",
+                "href": "https://www.serasaconsumidor.com.br//play.google.com/store/apps/details?id=br.com.serasaexperian.consumidor",
+                "icon": "https://www.serasa.com.br/assets/cms/2020/Yz8Y1Bpz-icon-play-store.svg",
+                "events": [
+                    {
+                        "attr": "data-vars-action",
+                        "value": "clique-link"
+                    },
+                    {
+                        "attr": "data-vars-label",
+                        "value": "download-app-play-story"
+                    }
+                ]
+            },
+            {
+                "title": "ios",
+                "href": "https://itunes.apple.com/br/app/serasaconsumidor/id1102452668?mt=8",
+                "icon": "https://www.serasa.com.br/assets/cms/2020/icon-apple-store.png",
+                "events": [
+                    {
+                        "attr": "data-vars-action",
+                        "value": "clique-link"
+                    },
+                    {
+                        "attr": "data-vars-label",
+                        "value": "download-app-apple-store"
+                    }
+                ]
+            }
+        ],
+        "otherLinks": [
+            {
+                "title": "Política de Privacidade",
+                "href": "https://www.serasaconsumidor.com.br/politicas-do-site/"
+            },
+            {
+                "title": "Acesso ao Procon",
+                "href": "http://www.procon.sp.gov.br/"
+            },
+            {
+                "title": "Órgãos de Defesa do Consumidor",
+                "href": "https://www.serasa.com.br/orgaosdedefesadoconsumidor/"
+            },
+            {
+                "title": "Trabalhe com a gente",
+                "href": "https://www.serasa.com.br/carreiras"
+            }
+        ],
+        "otherLinksEvents": [
+            {
+                "attr": "data-vars-action",
+                "value": "clique-link"
+            }
+        ],
+        "adresses": "<p>© Serasa Experian &#8211; São Paulo: Al. dos Quinimuras, 187, Planalto Paulista &#8211; CEP 04068-900, São Paulo, SP &#8211; CNPJ/MF nº 62.173.620/0001-80, IE Isenta.</p><p>© Serasa Experian &#8211; São Carlos: Av. Doutor Heitor José Reali, 360 &#8211; CEP 13571-385, São Carlos, SP &#8211; Inscrita no CNPJ/MF nº 62.173.620-0093-06.</p>",
+        "disclaimer": ""
+    },
+    "background": "white",
+    "tools": {
+        "hotjar": false,
+        "fontExperience": true
+    },
+    "gtmCode": {
+        "code": "GTM-MPQ66W2",
+        "uaCode": "UA-34169623-45"
+    },
+    "robots": true,
+    "blog": {
+        "is_blog": false,
+        "description": "",
+        "categories": false,
+        "post_thumb": false
+    },
+    "body": [
+        {
+            "acf_fc_layout": "HERO_PRODUCT",
+            "props": {
+                "id": "",
+                "title": "Saiba como consultar grátis seu Serasa Score",
+                "subtitle": {
+                    "text": "O cálculo da sua pontuação de crédito ficou ainda melhor. Conheça os benefícios do Serasa Score 2.0!",
+                    "tag": "h2"
+                },
+                "midia": {
+                    "type": "image",
+                    "image": {
+                        "ID": 11029,
+                        "id": 11029,
+                        "title": "o que é score",
+                        "filename": "5FRFsG4L-Hero-704-v3.svg",
+                        "filesize": 0,
+                        "url": "https://www.serasa.com.br/assets/cms/2021/5FRFsG4L-Hero-704-v3.svg",
+                        "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/hero-704-v3/",
+                        "alt": "o que é score",
+                        "author": "48",
+                        "description": "o que é score",
+                        "caption": "o que é score",
+                        "name": "hero-704-v3",
+                        "status": "inherit",
+                        "uploaded_to": 10689,
+                        "date": "2021-05-26 14:34:24",
+                        "modified": "2022-03-11 18:30:06",
+                        "menu_order": 0,
+                        "mime_type": "image/svg+xml",
+                        "type": "image",
+                        "subtype": "svg+xml",
+                        "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                        "width": 704,
+                        "height": 528,
+                        "sizes": {
+                            "thumbnail": "https://www.serasa.com.br/assets/cms/2021/5FRFsG4L-Hero-704-v3.svg",
+                            "thumbnail-width": "150",
+                            "thumbnail-height": "150",
+                            "medium": "https://www.serasa.com.br/assets/cms/2021/5FRFsG4L-Hero-704-v3.svg",
+                            "medium-width": "300",
+                            "medium-height": "300",
+                            "medium_large": "https://www.serasa.com.br/assets/cms/2021/5FRFsG4L-Hero-704-v3.svg",
+                            "medium_large-width": "768",
+                            "medium_large-height": "0",
+                            "large": "https://www.serasa.com.br/assets/cms/2021/5FRFsG4L-Hero-704-v3.svg",
+                            "large-width": "1024",
+                            "large-height": "1024",
+                            "1536x1536": "https://www.serasa.com.br/assets/cms/2021/5FRFsG4L-Hero-704-v3.svg",
+                            "1536x1536-width": false,
+                            "1536x1536-height": false,
+                            "2048x2048": "https://www.serasa.com.br/assets/cms/2021/5FRFsG4L-Hero-704-v3.svg",
+                            "2048x2048-width": false,
+                            "2048x2048-height": false
+                        }
+                    },
+                    "video": {
+                        "url": "uYIt9LeXwvg"
+                    }
+                },
+                "background": "custom",
+                "backgroundColor": "#e63888",
+                "backgroundGradient1": "",
+                "backgroundGradient2": "",
+                "colorModifier": "light",
+                "size": "s",
+                "hasButton": true,
+                "button": {
+                    "label": "Consulte agora",
+                    "action": {
+                        "type": "link",
+                        "value": "/entrar?product=score&redirectUrl=/area-cliente/"
+                    }
+                },
+                "events": [
+                    {
+                        "key": "click",
+                        "attrs": [
+                            {
+                                "attr": "data-vars-category",
+                                "value": "serasa-score-home"
+                            },
+                            {
+                                "attr": "data-vars-action",
+                                "value": "clique-botao"
+                            },
+                            {
+                                "attr": "data-vars-label",
+                                "value": "consulte-agora"
+                            },
+                            {
+                                "attr": "data-vars-vertical_produto",
+                                "value": "serasa-score"
+                            },
+                            {
+                                "attr": "data-vars-area",
+                                "value": "home"
+                            },
+                            {
+                                "attr": "data-vars-ambiente",
+                                "value": "deslogado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "acf_fc_layout": "MIDIA_BLOCK",
+            "props": {
+                "id": "",
+                "type": "video",
+                "image": {
+                    "ID": 11020,
+                    "id": 11020,
+                    "title": "Hero-704-v2",
+                    "filename": "pnq18YqU-Hero-704-v2.svg",
+                    "filesize": 0,
+                    "url": "https://www.serasa.com.br/assets/cms/2021/pnq18YqU-Hero-704-v2.svg",
+                    "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/hero-704-v2/",
+                    "alt": "",
+                    "author": "48",
+                    "description": "",
+                    "caption": "",
+                    "name": "hero-704-v2",
+                    "status": "inherit",
+                    "uploaded_to": 10689,
+                    "date": "2021-05-26 13:32:26",
+                    "modified": "2021-05-26 13:32:26",
+                    "menu_order": 0,
+                    "mime_type": "image/svg+xml",
+                    "type": "image",
+                    "subtype": "svg+xml",
+                    "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                    "width": 704,
+                    "height": 528,
+                    "sizes": {
+                        "thumbnail": "https://www.serasa.com.br/assets/cms/2021/pnq18YqU-Hero-704-v2.svg",
+                        "thumbnail-width": "150",
+                        "thumbnail-height": "150",
+                        "medium": "https://www.serasa.com.br/assets/cms/2021/pnq18YqU-Hero-704-v2.svg",
+                        "medium-width": "300",
+                        "medium-height": "300",
+                        "medium_large": "https://www.serasa.com.br/assets/cms/2021/pnq18YqU-Hero-704-v2.svg",
+                        "medium_large-width": "768",
+                        "medium_large-height": "0",
+                        "large": "https://www.serasa.com.br/assets/cms/2021/pnq18YqU-Hero-704-v2.svg",
+                        "large-width": "1024",
+                        "large-height": "1024",
+                        "1536x1536": "https://www.serasa.com.br/assets/cms/2021/pnq18YqU-Hero-704-v2.svg",
+                        "1536x1536-width": false,
+                        "1536x1536-height": false,
+                        "2048x2048": "https://www.serasa.com.br/assets/cms/2021/pnq18YqU-Hero-704-v2.svg",
+                        "2048x2048-width": false,
+                        "2048x2048-height": false
+                    }
+                },
+                "video": {
+                    "url": "uYIt9LeXwvg"
+                },
+                "space": "m",
+                "title": {
+                    "text": "O que é o Serasa Score 2.0?",
+                    "tag": "h2"
+                },
+                "subtitle": {
+                    "text": "",
+                    "tag": "h5"
+                },
+                "content": "<p>É a pontuação de crédito do brasileiro, que vai de 0 a 1000 e indica as chances do consumidor pagar suas contas em dia. Quanto mais alta for sua pontuação, mais chances você tem de conseguir crédito. Baixe o <a href=\"https://www.serasa.com.br/score/manual-do-score-serasa\" rel=\"noopener\" target=\"_blank\">Manual do Score Serasa grátis</a> e tire todas as suas dúvidas. </p>",
+                "size": "m",
+                "position": "left",
+                "hasButton": true,
+                "button": {
+                    "modifier": "solid",
+                    "full": true,
+                    "label": "Saiba mais",
+                    "link": "/score/o-que-e-score/"
+                },
+                "events": [
+                    {
+                        "key": "click",
+                        "attrs": [
+                            {
+                                "attr": "data-vars-category",
+                                "value": "serasa-score-home"
+                            },
+                            {
+                                "attr": "data-vars-action",
+                                "value": "clique-botao"
+                            },
+                            {
+                                "attr": "data-vars-label",
+                                "value": "saiba-mais-o-que-e-serasa-score-2.0"
+                            },
+                            {
+                                "attr": "data-vars-vertical_produto",
+                                "value": "serasa-score"
+                            },
+                            {
+                                "attr": "data-vars-area",
+                                "value": "home"
+                            },
+                            {
+                                "attr": "data-vars-ambiente",
+                                "value": "deslogado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "acf_fc_layout": "LIST_BLOG",
+            "props": {
+                "id": "",
+                "title": {
+                    "text": "O score da Serasa reflete seu comportamento financeiro",
+                    "tag": "h2"
+                },
+                "subtitle": {
+                    "text": "A pontuação facilita o seu acesso ao crédito em serviços como: ",
+                    "tag": "h2"
+                },
+                "position": "center",
+                "background": "snow",
+                "items": [
+                    {
+                        "title": {
+                            "text": "Empréstimos ",
+                            "tag": "h2"
+                        },
+                        "description": "",
+                        "midia": {
+                            "image": {
+                                "ID": 10834,
+                                "id": 10834,
+                                "title": "Dimensões personalizadas 300x300 px (1)-min",
+                                "filename": "Dimensoes-personalizadas-300x300-px-1-min.png",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-1-min.png",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/dimensoes-personalizadas-300x300-px-1-min/",
+                                "alt": "",
+                                "author": "58",
+                                "description": "",
+                                "caption": "",
+                                "name": "dimensoes-personalizadas-300x300-px-1-min",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-25 18:13:25",
+                                "modified": "2021-05-25 18:13:25",
+                                "menu_order": 0,
+                                "mime_type": "image/png",
+                                "type": "image",
+                                "subtype": "png",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 300,
+                                "height": 300,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-1-min-150x150.png",
+                                    "thumbnail-width": 150,
+                                    "thumbnail-height": 150,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-1-min-300x300.png",
+                                    "medium-width": 300,
+                                    "medium-height": 300,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-1-min.png",
+                                    "medium_large-width": 300,
+                                    "medium_large-height": 300,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-1-min.png",
+                                    "large-width": 300,
+                                    "large-height": 300,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-1-min.png",
+                                    "1536x1536-width": 300,
+                                    "1536x1536-height": 300,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-1-min.png",
+                                    "2048x2048-width": 300,
+                                    "2048x2048-height": 300
+                                }
+                            }
+                        },
+                        "link": ""
+                    },
+                    {
+                        "title": {
+                            "text": "Financiamentos",
+                            "tag": "h2"
+                        },
+                        "description": "",
+                        "midia": {
+                            "image": {
+                                "ID": 10839,
+                                "id": 10839,
+                                "title": "Dimensões personalizadas 300x300 px (4)-min",
+                                "filename": "Dimensoes-personalizadas-300x300-px-4-min.png",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-4-min.png",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/dimensoes-personalizadas-300x300-px-4-min/",
+                                "alt": "",
+                                "author": "58",
+                                "description": "",
+                                "caption": "",
+                                "name": "dimensoes-personalizadas-300x300-px-4-min",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-25 18:22:27",
+                                "modified": "2021-05-25 18:22:27",
+                                "menu_order": 0,
+                                "mime_type": "image/png",
+                                "type": "image",
+                                "subtype": "png",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 300,
+                                "height": 300,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-4-min-150x150.png",
+                                    "thumbnail-width": 150,
+                                    "thumbnail-height": 150,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-4-min-300x300.png",
+                                    "medium-width": 300,
+                                    "medium-height": 300,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-4-min.png",
+                                    "medium_large-width": 300,
+                                    "medium_large-height": 300,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-4-min.png",
+                                    "large-width": 300,
+                                    "large-height": 300,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-4-min.png",
+                                    "1536x1536-width": 300,
+                                    "1536x1536-height": 300,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-4-min.png",
+                                    "2048x2048-width": 300,
+                                    "2048x2048-height": 300
+                                }
+                            }
+                        },
+                        "link": ""
+                    },
+                    {
+                        "title": {
+                            "text": "Compras parceladas",
+                            "tag": "h2"
+                        },
+                        "description": "",
+                        "midia": {
+                            "image": {
+                                "ID": 10836,
+                                "id": 10836,
+                                "title": "Dimensões personalizadas 300x300 px (2)-min",
+                                "filename": "Dimensoes-personalizadas-300x300-px-2-min.png",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-2-min.png",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/dimensoes-personalizadas-300x300-px-2-min/",
+                                "alt": "",
+                                "author": "58",
+                                "description": "",
+                                "caption": "",
+                                "name": "dimensoes-personalizadas-300x300-px-2-min",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-25 18:16:42",
+                                "modified": "2021-05-25 18:16:42",
+                                "menu_order": 0,
+                                "mime_type": "image/png",
+                                "type": "image",
+                                "subtype": "png",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 300,
+                                "height": 300,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-2-min-150x150.png",
+                                    "thumbnail-width": 150,
+                                    "thumbnail-height": 150,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-2-min-300x300.png",
+                                    "medium-width": 300,
+                                    "medium-height": 300,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-2-min.png",
+                                    "medium_large-width": 300,
+                                    "medium_large-height": 300,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-2-min.png",
+                                    "large-width": 300,
+                                    "large-height": 300,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-2-min.png",
+                                    "1536x1536-width": 300,
+                                    "1536x1536-height": 300,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-2-min.png",
+                                    "2048x2048-width": 300,
+                                    "2048x2048-height": 300
+                                }
+                            }
+                        },
+                        "link": ""
+                    },
+                    {
+                        "title": {
+                            "text": "Assinatura de Serviços",
+                            "tag": "h2"
+                        },
+                        "description": "",
+                        "midia": {
+                            "image": {
+                                "ID": 10838,
+                                "id": 10838,
+                                "title": "Dimensões personalizadas 300x300 px (3)-min",
+                                "filename": "Dimensoes-personalizadas-300x300-px-3-min.png",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-3-min.png",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/dimensoes-personalizadas-300x300-px-3-min/",
+                                "alt": "",
+                                "author": "58",
+                                "description": "",
+                                "caption": "",
+                                "name": "dimensoes-personalizadas-300x300-px-3-min",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-25 18:21:03",
+                                "modified": "2021-05-25 18:21:03",
+                                "menu_order": 0,
+                                "mime_type": "image/png",
+                                "type": "image",
+                                "subtype": "png",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 300,
+                                "height": 300,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-3-min-150x150.png",
+                                    "thumbnail-width": 150,
+                                    "thumbnail-height": 150,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-3-min-300x300.png",
+                                    "medium-width": 300,
+                                    "medium-height": 300,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-3-min.png",
+                                    "medium_large-width": 300,
+                                    "medium_large-height": 300,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-3-min.png",
+                                    "large-width": 300,
+                                    "large-height": 300,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-3-min.png",
+                                    "1536x1536-width": 300,
+                                    "1536x1536-height": 300,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-3-min.png",
+                                    "2048x2048-width": 300,
+                                    "2048x2048-height": 300
+                                }
+                            }
+                        },
+                        "link": ""
+                    },
+                    {
+                        "title": {
+                            "text": "Cartões de Crédito",
+                            "tag": "h2"
+                        },
+                        "description": "",
+                        "midia": {
+                            "image": {
+                                "ID": 10839,
+                                "id": 10839,
+                                "title": "Dimensões personalizadas 300x300 px (4)-min",
+                                "filename": "Dimensoes-personalizadas-300x300-px-4-min.png",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-4-min.png",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/dimensoes-personalizadas-300x300-px-4-min/",
+                                "alt": "",
+                                "author": "58",
+                                "description": "",
+                                "caption": "",
+                                "name": "dimensoes-personalizadas-300x300-px-4-min",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-25 18:22:27",
+                                "modified": "2021-05-25 18:22:27",
+                                "menu_order": 0,
+                                "mime_type": "image/png",
+                                "type": "image",
+                                "subtype": "png",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 300,
+                                "height": 300,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-4-min-150x150.png",
+                                    "thumbnail-width": 150,
+                                    "thumbnail-height": 150,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-4-min-300x300.png",
+                                    "medium-width": 300,
+                                    "medium-height": 300,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-4-min.png",
+                                    "medium_large-width": 300,
+                                    "medium_large-height": 300,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-4-min.png",
+                                    "large-width": 300,
+                                    "large-height": 300,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-4-min.png",
+                                    "1536x1536-width": 300,
+                                    "1536x1536-height": 300,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-4-min.png",
+                                    "2048x2048-width": 300,
+                                    "2048x2048-height": 300
+                                }
+                            }
+                        },
+                        "link": ""
+                    }
+                ],
+                "hasButton": false,
+                "button": {
+                    "label": "",
+                    "action": {
+                        "type": "link",
+                        "value": ""
+                    }
+                },
+                "space": "s",
+                "itemsPerRow": "3"
+            }
+        },
+        {
+            "acf_fc_layout": "MIDIA_BLOCK",
+            "props": {
+                "id": "",
+                "type": "video",
+                "image": {
+                    "ID": 11401,
+                    "id": 11401,
+                    "title": "score 2.0",
+                    "filename": "MicrosoftTeams-image-105.png",
+                    "filesize": 0,
+                    "url": "https://www.serasa.com.br/assets/cms/2021/MicrosoftTeams-image-105.png",
+                    "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/microsoftteams-image-105/",
+                    "alt": "",
+                    "author": "53",
+                    "description": "",
+                    "caption": "",
+                    "name": "microsoftteams-image-105",
+                    "status": "inherit",
+                    "uploaded_to": 10689,
+                    "date": "2021-06-02 15:17:41",
+                    "modified": "2021-06-02 15:17:52",
+                    "menu_order": 0,
+                    "mime_type": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                    "width": 704,
+                    "height": 528,
+                    "sizes": {
+                        "thumbnail": "https://www.serasa.com.br/assets/cms/2021/MicrosoftTeams-image-105-150x150.png",
+                        "thumbnail-width": 150,
+                        "thumbnail-height": 150,
+                        "medium": "https://www.serasa.com.br/assets/cms/2021/MicrosoftTeams-image-105-300x225.png",
+                        "medium-width": 300,
+                        "medium-height": 225,
+                        "medium_large": "https://www.serasa.com.br/assets/cms/2021/MicrosoftTeams-image-105.png",
+                        "medium_large-width": 704,
+                        "medium_large-height": 528,
+                        "large": "https://www.serasa.com.br/assets/cms/2021/MicrosoftTeams-image-105.png",
+                        "large-width": 704,
+                        "large-height": 528,
+                        "1536x1536": "https://www.serasa.com.br/assets/cms/2021/MicrosoftTeams-image-105.png",
+                        "1536x1536-width": 704,
+                        "1536x1536-height": 528,
+                        "2048x2048": "https://www.serasa.com.br/assets/cms/2021/MicrosoftTeams-image-105.png",
+                        "2048x2048-width": 704,
+                        "2048x2048-height": 528
+                    }
+                },
+                "video": {
+                    "url": "ASHdtRpQP0w"
+                },
+                "space": "l",
+                "title": {
+                    "text": "Sua pontuação ainda mais precisa: chegou o novo Serasa Score 2.0",
+                    "tag": "h2"
+                },
+                "subtitle": {
+                    "text": "",
+                    "tag": "h5"
+                },
+                "content": "<p>Agora seus bons hábitos financeiros, como pagar contas em dia,<br />têm mais peso na sua pontuação. Veja o que mudou.</p>",
+                "size": "l",
+                "position": "right",
+                "hasButton": true,
+                "button": {
+                    "modifier": "solid",
+                    "full": true,
+                    "label": "Saiba mais",
+                    "link": "/score/score-2-0/"
+                },
+                "events": [
+                    {
+                        "key": "click",
+                        "attrs": [
+                            {
+                                "attr": "data-vars-category",
+                                "value": "serasa-score-home"
+                            },
+                            {
+                                "attr": "data-vars-action",
+                                "value": "clique-botao"
+                            },
+                            {
+                                "attr": "data-vars-label",
+                                "value": "saiba-mais-sua-pontuacao-ainda-mais-precisa"
+                            },
+                            {
+                                "attr": "data-vars-vertical_produto",
+                                "value": "serasa-score"
+                            },
+                            {
+                                "attr": "data-vars-area",
+                                "value": "home"
+                            },
+                            {
+                                "attr": "data-vars-ambiente",
+                                "value": "deslogado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "acf_fc_layout": "LIST_FEATURES",
+            "props": {
+                "id": "",
+                "title": {
+                    "text": "Por que o Serasa Score 2.0 está ainda melhor?",
+                    "tag": "h2"
+                },
+                "subtitle": {
+                    "text": "",
+                    "tag": "h5"
+                },
+                "position": "center",
+                "background": "snow",
+                "items": [
+                    {
+                        "midia": {
+                            "image": {
+                                "ID": 10842,
+                                "id": 10842,
+                                "title": "Dimensões personalizadas 300x300 px (5)",
+                                "filename": "Dimensoes-personalizadas-300x300-px-5.png",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-5.png",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/dimensoes-personalizadas-300x300-px-5/",
+                                "alt": "",
+                                "author": "58",
+                                "description": "",
+                                "caption": "",
+                                "name": "dimensoes-personalizadas-300x300-px-5",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-25 18:37:06",
+                                "modified": "2021-05-25 18:37:06",
+                                "menu_order": 0,
+                                "mime_type": "image/png",
+                                "type": "image",
+                                "subtype": "png",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 300,
+                                "height": 300,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-5-150x150.png",
+                                    "thumbnail-width": 150,
+                                    "thumbnail-height": 150,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-5-300x300.png",
+                                    "medium-width": 300,
+                                    "medium-height": 300,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-5.png",
+                                    "medium_large-width": 300,
+                                    "medium_large-height": 300,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-5.png",
+                                    "large-width": 300,
+                                    "large-height": 300,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-5.png",
+                                    "1536x1536-width": 300,
+                                    "1536x1536-height": 300,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-5.png",
+                                    "2048x2048-width": 300,
+                                    "2048x2048-height": 300
+                                }
+                            }
+                        },
+                        "title": {
+                            "text": "Valoriza seu comportamento  financeiro",
+                            "tag": "h2"
+                        },
+                        "description": "<p>Agora, as contas pagas em dia têm mais peso na sua pontuação final.</p>"
+                    },
+                    {
+                        "midia": {
+                            "image": {
+                                "ID": 10868,
+                                "id": 10868,
+                                "title": "Dimensões personalizadas 300x300 px (9)",
+                                "filename": "Dimensoes-personalizadas-300x300-px-9.png",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-9.png",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/dimensoes-personalizadas-300x300-px-9/",
+                                "alt": "",
+                                "author": "58",
+                                "description": "",
+                                "caption": "",
+                                "name": "dimensoes-personalizadas-300x300-px-9",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-25 19:17:53",
+                                "modified": "2021-05-25 19:17:53",
+                                "menu_order": 0,
+                                "mime_type": "image/png",
+                                "type": "image",
+                                "subtype": "png",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 300,
+                                "height": 300,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-9-150x150.png",
+                                    "thumbnail-width": 150,
+                                    "thumbnail-height": 150,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-9-300x300.png",
+                                    "medium-width": 300,
+                                    "medium-height": 300,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-9.png",
+                                    "medium_large-width": 300,
+                                    "medium_large-height": 300,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-9.png",
+                                    "large-width": 300,
+                                    "large-height": 300,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-9.png",
+                                    "1536x1536-width": 300,
+                                    "1536x1536-height": 300,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-9.png",
+                                    "2048x2048-width": 300,
+                                    "2048x2048-height": 300
+                                }
+                            }
+                        },
+                        "title": {
+                            "text": "Facilita análises de crédito mais justas",
+                            "tag": "h2"
+                        },
+                        "description": "<p>O novo cálculo está mais alinhado aos critérios que o mercado usa para oferecer crédito.</p>"
+                    },
+                    {
+                        "midia": {
+                            "image": {
+                                "ID": 10852,
+                                "id": 10852,
+                                "title": "Dimensões personalizadas 300x300 px (6)",
+                                "filename": "Dimensoes-personalizadas-300x300-px-6.png",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-6.png",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/dimensoes-personalizadas-300x300-px-6/",
+                                "alt": "",
+                                "author": "58",
+                                "description": "",
+                                "caption": "",
+                                "name": "dimensoes-personalizadas-300x300-px-6",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-25 18:57:42",
+                                "modified": "2021-05-25 18:57:42",
+                                "menu_order": 0,
+                                "mime_type": "image/png",
+                                "type": "image",
+                                "subtype": "png",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 300,
+                                "height": 300,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-6-150x150.png",
+                                    "thumbnail-width": 150,
+                                    "thumbnail-height": 150,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-6-300x300.png",
+                                    "medium-width": 300,
+                                    "medium-height": 300,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-6.png",
+                                    "medium_large-width": 300,
+                                    "medium_large-height": 300,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-6.png",
+                                    "large-width": 300,
+                                    "large-height": 300,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-6.png",
+                                    "1536x1536-width": 300,
+                                    "1536x1536-height": 300,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-6.png",
+                                    "2048x2048-width": 300,
+                                    "2048x2048-height": 300
+                                }
+                            }
+                        },
+                        "title": {
+                            "text": "Consulta de dívidas em um só lugar",
+                            "tag": "h2"
+                        },
+                        "description": "<p>Seus históricos de dívidas na Serasa e SPC Brasil passam a ser considerados no cálculo do Score.</p>"
+                    },
+                    {
+                        "midia": {
+                            "image": {
+                                "ID": 10878,
+                                "id": 10878,
+                                "title": "Lock & Unlock",
+                                "filename": "Dimensoes-personalizadas-300x300-px-10.png",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-10.png",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/dimensoes-personalizadas-300x300-px-10/",
+                                "alt": "Lock & Unlock",
+                                "author": "58",
+                                "description": "",
+                                "caption": "Lock & Unlock",
+                                "name": "dimensoes-personalizadas-300x300-px-10",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-25 19:31:50",
+                                "modified": "2021-07-30 23:55:58",
+                                "menu_order": 0,
+                                "mime_type": "image/png",
+                                "type": "image",
+                                "subtype": "png",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 300,
+                                "height": 300,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-10-150x150.png",
+                                    "thumbnail-width": 150,
+                                    "thumbnail-height": 150,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-10-300x300.png",
+                                    "medium-width": 300,
+                                    "medium-height": 300,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-10.png",
+                                    "medium_large-width": 300,
+                                    "medium_large-height": 300,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-10.png",
+                                    "large-width": 300,
+                                    "large-height": 300,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-10.png",
+                                    "1536x1536-width": 300,
+                                    "1536x1536-height": 300,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-10.png",
+                                    "2048x2048-width": 300,
+                                    "2048x2048-height": 300
+                                }
+                            }
+                        },
+                        "title": {
+                            "text": "Novas faixas de classificação",
+                            "tag": "h2"
+                        },
+                        "description": "<p>Sua nova pontuação pode se enquadrar em uma faixa de classificação melhor.</p>"
+                    }
+                ],
+                "space": "l"
+            }
+        },
+        {
+            "acf_fc_layout": "CTA",
+            "props": {
+                "id": "",
+                "title": {
+                    "text": "Descubra seu Serasa Score",
+                    "tag": "h2"
+                },
+                "subtitle": {
+                    "text": "Na Serasa, você consulta sua pontuação quantas vezes quiser sem pagar nada.",
+                    "tag": "h2"
+                },
+                "background": "gray",
+                "button": {
+                    "label": "Consultar agora",
+                    "link": "/entrar?product=score&redirectUrl=/area-cliente/",
+                    "event": {
+                        "action": "###",
+                        "label": "###"
+                    }
+                },
+                "space": "s",
+                "events": [
+                    {
+                        "key": "click",
+                        "attrs": [
+                            {
+                                "attr": "data-vars-category",
+                                "value": "serasa-score-home"
+                            },
+                            {
+                                "attr": "data-vars-action",
+                                "value": "clique-botao"
+                            },
+                            {
+                                "attr": "data-vars-label",
+                                "value": "consultar-agora"
+                            },
+                            {
+                                "attr": "data-vars-vertical_produto",
+                                "value": "serasa-score"
+                            },
+                            {
+                                "attr": "data-vars-area",
+                                "value": "home"
+                            },
+                            {
+                                "attr": "data-vars-ambiente",
+                                "value": "deslogado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "acf_fc_layout": "MEDIA_CATEGORY",
+            "props": {
+                "id": "",
+                "title": {
+                    "text": "Veja como consultar seu Serasa Score 2.0",
+                    "tag": "h2"
+                },
+                "subtitle": {
+                    "text": "Siga o passo a passo e verifique sua pontuação:",
+                    "tag": "h2"
+                },
+                "position": "center",
+                "background": "snow",
+                "items": [
+                    {
+                        "title": {
+                            "text": "Baixe grátis o app da Serasa",
+                            "tag": "h2"
+                        },
+                        "subtitle": {
+                            "text": "",
+                            "tag": "h5"
+                        },
+                        "content": "<p>A nova pontuação está sendo disponibilizada para os consumidores de forma gradativa e, por enquanto, pode ser consultada exclusivamente pelo aplicativo, disponível no <a href=\"https://play.google.com/store/apps/details?id=br.com.serasaexperian.consumidor\" rel=\"noopener\" target=\"_blank\">Google Play</a> e na <a href=\"https://apps.apple.com/br/app/serasa-consulta-cpf/id1102452668\" rel=\"noopener\" target=\"_blank\">App Store</a>.</p>",
+                        "midia": {
+                            "type": "image",
+                            "image": {
+                                "ID": 11023,
+                                "id": 11023,
+                                "title": "Passo1-v2",
+                                "filename": "ZUqq1Kah-Passo1-v2.svg",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/ZUqq1Kah-Passo1-v2.svg",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/passo1-v2/",
+                                "alt": "score-app",
+                                "author": "48",
+                                "description": "",
+                                "caption": "",
+                                "name": "passo1-v2",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-26 14:23:59",
+                                "modified": "2021-06-03 20:29:48",
+                                "menu_order": 0,
+                                "mime_type": "image/svg+xml",
+                                "type": "image",
+                                "subtype": "svg+xml",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 704,
+                                "height": 528,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/ZUqq1Kah-Passo1-v2.svg",
+                                    "thumbnail-width": "150",
+                                    "thumbnail-height": "150",
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/ZUqq1Kah-Passo1-v2.svg",
+                                    "medium-width": "300",
+                                    "medium-height": "300",
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/ZUqq1Kah-Passo1-v2.svg",
+                                    "medium_large-width": "768",
+                                    "medium_large-height": "0",
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/ZUqq1Kah-Passo1-v2.svg",
+                                    "large-width": "1024",
+                                    "large-height": "1024",
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/ZUqq1Kah-Passo1-v2.svg",
+                                    "1536x1536-width": false,
+                                    "1536x1536-height": false,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/ZUqq1Kah-Passo1-v2.svg",
+                                    "2048x2048-width": false,
+                                    "2048x2048-height": false
+                                }
+                            },
+                            "video": {
+                                "url": ""
+                            }
+                        },
+                        "position": "left",
+                        "background": "snow",
+                        "hasButton": false,
+                        "button": {
+                            "label": "",
+                            "type": "image",
+                            "action": {
+                                "type": "link",
+                                "value": ""
+                            }
+                        },
+                        "events": false
+                    },
+                    {
+                        "title": {
+                            "text": "Cadastre uma senha e faça login",
+                            "tag": "h2"
+                        },
+                        "subtitle": {
+                            "text": "",
+                            "tag": "h5"
+                        },
+                        "content": "<p>Com seu CPF e senha, você acessa todas as informações disponíveis em seu perfil. </p>",
+                        "midia": {
+                            "type": "image",
+                            "image": {
+                                "ID": 11024,
+                                "id": 11024,
+                                "title": "Passo2-v2",
+                                "filename": "RPFXsy0E-Passo2-v2.svg",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/RPFXsy0E-Passo2-v2.svg",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/passo2-v2/",
+                                "alt": "score",
+                                "author": "48",
+                                "description": "",
+                                "caption": "",
+                                "name": "passo2-v2",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-26 14:24:42",
+                                "modified": "2021-06-03 20:28:36",
+                                "menu_order": 0,
+                                "mime_type": "image/svg+xml",
+                                "type": "image",
+                                "subtype": "svg+xml",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 704,
+                                "height": 528,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/RPFXsy0E-Passo2-v2.svg",
+                                    "thumbnail-width": "150",
+                                    "thumbnail-height": "150",
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/RPFXsy0E-Passo2-v2.svg",
+                                    "medium-width": "300",
+                                    "medium-height": "300",
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/RPFXsy0E-Passo2-v2.svg",
+                                    "medium_large-width": "768",
+                                    "medium_large-height": "0",
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/RPFXsy0E-Passo2-v2.svg",
+                                    "large-width": "1024",
+                                    "large-height": "1024",
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/RPFXsy0E-Passo2-v2.svg",
+                                    "1536x1536-width": false,
+                                    "1536x1536-height": false,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/RPFXsy0E-Passo2-v2.svg",
+                                    "2048x2048-width": false,
+                                    "2048x2048-height": false
+                                }
+                            },
+                            "video": {
+                                "url": ""
+                            }
+                        },
+                        "position": "left",
+                        "background": "snow",
+                        "hasButton": false,
+                        "button": {
+                            "label": "",
+                            "type": "image",
+                            "action": {
+                                "type": "link",
+                                "value": ""
+                            }
+                        },
+                        "events": false
+                    },
+                    {
+                        "title": {
+                            "text": "Pronto!",
+                            "tag": "h2"
+                        },
+                        "subtitle": {
+                            "text": "",
+                            "tag": "h5"
+                        },
+                        "content": "<p>Na área logada, confira seu Serasa Score 2.0 e o histórico da sua pontuação. </p>",
+                        "midia": {
+                            "type": "image",
+                            "image": {
+                                "ID": 11026,
+                                "id": 11026,
+                                "title": "Passo3-v2",
+                                "filename": "84Vcc5GK-Passo3-v2.svg",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/84Vcc5GK-Passo3-v2.svg",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/passo3-v2/",
+                                "alt": "score-2-0",
+                                "author": "48",
+                                "description": "",
+                                "caption": "",
+                                "name": "passo3-v2",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-26 14:29:04",
+                                "modified": "2021-06-03 20:32:35",
+                                "menu_order": 0,
+                                "mime_type": "image/svg+xml",
+                                "type": "image",
+                                "subtype": "svg+xml",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 704,
+                                "height": 528,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/84Vcc5GK-Passo3-v2.svg",
+                                    "thumbnail-width": "150",
+                                    "thumbnail-height": "150",
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/84Vcc5GK-Passo3-v2.svg",
+                                    "medium-width": "300",
+                                    "medium-height": "300",
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/84Vcc5GK-Passo3-v2.svg",
+                                    "medium_large-width": "768",
+                                    "medium_large-height": "0",
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/84Vcc5GK-Passo3-v2.svg",
+                                    "large-width": "1024",
+                                    "large-height": "1024",
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/84Vcc5GK-Passo3-v2.svg",
+                                    "1536x1536-width": false,
+                                    "1536x1536-height": false,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/84Vcc5GK-Passo3-v2.svg",
+                                    "2048x2048-width": false,
+                                    "2048x2048-height": false
+                                }
+                            },
+                            "video": {
+                                "url": ""
+                            }
+                        },
+                        "position": "left",
+                        "background": "snow",
+                        "hasButton": false,
+                        "button": {
+                            "label": "",
+                            "type": "image",
+                            "action": {
+                                "type": "link",
+                                "value": ""
+                            }
+                        },
+                        "events": false
+                    }
+                ],
+                "space": "s",
+                "events": false
+            }
+        },
+        {
+            "acf_fc_layout": "MEDIA_LIST",
+            "props": {
+                "id": "",
+                "title": {
+                    "text": "Turbine seu Serasa Score e conquiste pontos rapidamente com Score Turbo",
+                    "tag": "h3"
+                },
+                "subtitle": {
+                    "text": "O Score Turbo é uma vantagem exclusiva da Serasa. Você paga suas dívidas pelo Serasa Limpa Nome e aumenta sua pontuação de forma muito mais rápida.",
+                    "tag": "h3"
+                },
+                "midia": {
+                    "image": {
+                        "ID": 14318,
+                        "id": 14318,
+                        "title": "celular mostra tela com histórico do serasa score",
+                        "filename": "at-score-celular.png",
+                        "filesize": 0,
+                        "url": "https://www.serasa.com.br/assets/cms/2021/at-score-celular.png",
+                        "link": "https://k8s-web-medusa-api-prd.ecsbr.net/?attachment_id=14318",
+                        "alt": "celular mostra tela com histórico do serasa score",
+                        "author": "73",
+                        "description": "",
+                        "caption": "celular mostra tela com histórico do serasa score",
+                        "name": "at-score-celular",
+                        "status": "inherit",
+                        "uploaded_to": 14308,
+                        "date": "2021-08-10 14:20:27",
+                        "modified": "2021-08-10 14:23:42",
+                        "menu_order": 0,
+                        "mime_type": "image/png",
+                        "type": "image",
+                        "subtype": "png",
+                        "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                        "width": 448,
+                        "height": 522,
+                        "sizes": {
+                            "thumbnail": "https://www.serasa.com.br/assets/cms/2021/at-score-celular-150x150.png",
+                            "thumbnail-width": 150,
+                            "thumbnail-height": 150,
+                            "medium": "https://www.serasa.com.br/assets/cms/2021/at-score-celular-257x300.png",
+                            "medium-width": 257,
+                            "medium-height": 300,
+                            "medium_large": "https://www.serasa.com.br/assets/cms/2021/at-score-celular.png",
+                            "medium_large-width": 448,
+                            "medium_large-height": 522,
+                            "large": "https://www.serasa.com.br/assets/cms/2021/at-score-celular.png",
+                            "large-width": 448,
+                            "large-height": 522,
+                            "1536x1536": "https://www.serasa.com.br/assets/cms/2021/at-score-celular.png",
+                            "1536x1536-width": 448,
+                            "1536x1536-height": 522,
+                            "2048x2048": "https://www.serasa.com.br/assets/cms/2021/at-score-celular.png",
+                            "2048x2048-width": 448,
+                            "2048x2048-height": 522
+                        }
+                    }
+                },
+                "position": "center",
+                "background": "snow",
+                "items": [
+                    {
+                        "midia": {
+                            "image": {
+                                "ID": 10888,
+                                "id": 10888,
+                                "title": "Lock & Unlock Serasa Premium",
+                                "filename": "Dimensoes-personalizadas-300x300-px-11.png",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-11.png",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/dimensoes-personalizadas-300x300-px-11/",
+                                "alt": "Lock & Unlock Serasa Premium",
+                                "author": "58",
+                                "description": "",
+                                "caption": "Lock & Unlock Serasa Premium",
+                                "name": "dimensoes-personalizadas-300x300-px-11",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-25 19:52:35",
+                                "modified": "2021-07-30 23:30:56",
+                                "menu_order": 0,
+                                "mime_type": "image/png",
+                                "type": "image",
+                                "subtype": "png",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 300,
+                                "height": 300,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-11-150x150.png",
+                                    "thumbnail-width": 150,
+                                    "thumbnail-height": 150,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-11-300x300.png",
+                                    "medium-width": 300,
+                                    "medium-height": 300,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-11.png",
+                                    "medium_large-width": 300,
+                                    "medium_large-height": 300,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-11.png",
+                                    "large-width": 300,
+                                    "large-height": 300,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-11.png",
+                                    "1536x1536-width": 300,
+                                    "1536x1536-height": 300,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-11.png",
+                                    "2048x2048-width": 300,
+                                    "2048x2048-height": 300
+                                }
+                            }
+                        },
+                        "description": "<p>Consulte grátis seu CPF na Serasa.</p>"
+                    },
+                    {
+                        "midia": {
+                            "image": {
+                                "ID": 10889,
+                                "id": 10889,
+                                "title": "Lock & Unlock Serasa Premium",
+                                "filename": "Dimensoes-personalizadas-300x300-px-12.png",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-12.png",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/dimensoes-personalizadas-300x300-px-12/",
+                                "alt": "Lock & Unlock Serasa Premium",
+                                "author": "58",
+                                "description": "",
+                                "caption": "Lock & Unlock Serasa Premium",
+                                "name": "dimensoes-personalizadas-300x300-px-12",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-25 19:53:40",
+                                "modified": "2021-07-30 23:31:16",
+                                "menu_order": 0,
+                                "mime_type": "image/png",
+                                "type": "image",
+                                "subtype": "png",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 300,
+                                "height": 300,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-12-150x150.png",
+                                    "thumbnail-width": 150,
+                                    "thumbnail-height": 150,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-12-300x300.png",
+                                    "medium-width": 300,
+                                    "medium-height": 300,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-12.png",
+                                    "medium_large-width": 300,
+                                    "medium_large-height": 300,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-12.png",
+                                    "large-width": 300,
+                                    "large-height": 300,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-12.png",
+                                    "1536x1536-width": 300,
+                                    "1536x1536-height": 300,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-12.png",
+                                    "2048x2048-width": 300,
+                                    "2048x2048-height": 300
+                                }
+                            }
+                        },
+                        "description": "<p>Escolha alguma oferta do Serasa Limpa Nome com Turbo disponível para você.</p>"
+                    },
+                    {
+                        "midia": {
+                            "image": {
+                                "ID": 10890,
+                                "id": 10890,
+                                "title": "Lock & Unlock Serasa Premium",
+                                "filename": "Dimensoes-personalizadas-300x300-px-13.png",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-13.png",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/dimensoes-personalizadas-300x300-px-13/",
+                                "alt": "Lock & Unlock Serasa Premium",
+                                "author": "58",
+                                "description": "",
+                                "caption": "Lock & Unlock Serasa Premium",
+                                "name": "dimensoes-personalizadas-300x300-px-13",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-05-25 19:54:31",
+                                "modified": "2021-07-30 23:31:42",
+                                "menu_order": 0,
+                                "mime_type": "image/png",
+                                "type": "image",
+                                "subtype": "png",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 300,
+                                "height": 300,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-13-150x150.png",
+                                    "thumbnail-width": 150,
+                                    "thumbnail-height": 150,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-13-300x300.png",
+                                    "medium-width": 300,
+                                    "medium-height": 300,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-13.png",
+                                    "medium_large-width": 300,
+                                    "medium_large-height": 300,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-13.png",
+                                    "large-width": 300,
+                                    "large-height": 300,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-13.png",
+                                    "1536x1536-width": 300,
+                                    "1536x1536-height": 300,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-300x300-px-13.png",
+                                    "2048x2048-width": 300,
+                                    "2048x2048-height": 300
+                                }
+                            }
+                        },
+                        "description": "<p>Pague o acordo sem atrasos e conquiste pontos rapidamente.</p>"
+                    }
+                ],
+                "space": "s"
+            }
+        },
+        {
+            "acf_fc_layout": "CTA",
+            "props": {
+                "id": "",
+                "title": {
+                    "text": "Score Turbo",
+                    "tag": "h2"
+                },
+                "subtitle": {
+                    "text": "Veja como aumentar o seu Serasa Score e turbine sua pontuação.",
+                    "tag": "h2"
+                },
+                "background": "gray",
+                "button": {
+                    "label": "Score Turbo - Saiba mais",
+                    "link": "https://www.serasa.com.br/score/turbo",
+                    "event": {
+                        "action": "cta-clique",
+                        "label": "btn-consultar-score-turbo"
+                    }
+                },
+                "space": "m",
+                "events": [
+                    {
+                        "key": "click",
+                        "attrs": [
+                            {
+                                "attr": "data-vars-category",
+                                "value": "serasa-score-home"
+                            },
+                            {
+                                "attr": "data-vars-action",
+                                "value": "clique-botao"
+                            },
+                            {
+                                "attr": "data-vars-label",
+                                "value": "score-turbo-saiba-mais"
+                            },
+                            {
+                                "attr": "data-vars-vertical_produto",
+                                "value": "serasa-score"
+                            },
+                            {
+                                "attr": "data-vars-area",
+                                "value": "home"
+                            },
+                            {
+                                "attr": "data-vars-ambiente",
+                                "value": "deslogado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "acf_fc_layout": "CUSTOM_FORM",
+            "props": {
+                "id": "",
+                "title": {
+                    "text": "Baixe o Manual do Score",
+                    "tag": "h2"
+                },
+                "background": "custom",
+                "backgroundColor": "#d92b80",
+                "colorModifier": "light",
+                "size": "s",
+                "button": {
+                    "label": "Baixe agora",
+                    "action": {
+                        "type": "link",
+                        "value": ""
+                    }
+                },
+                "events": [
+                    {
+                        "key": "click",
+                        "attrs": [
+                            {
+                                "attr": "data-vars-category",
+                                "value": "serasa-score-home"
+                            },
+                            {
+                                "attr": "data-vars-action",
+                                "value": "clique-botao"
+                            },
+                            {
+                                "attr": "data-vars-label",
+                                "value": "baixe-agora"
+                            },
+                            {
+                                "attr": "data-vars-vertical_produto",
+                                "value": "serasa-score"
+                            },
+                            {
+                                "attr": "data-vars-area",
+                                "value": "home"
+                            },
+                            {
+                                "attr": "data-vars-ambiente",
+                                "value": "deslogado"
+                            }
+                        ]
+                    }
+                ],
+                "subtitle": {
+                    "text": "O único material oficial e gratuito do mercado com todas as informações que você precisa para aumentar sua pontuação de crédito.",
+                    "tag": "p"
+                },
+                "fields": [
+                    {
+                        "name": "CPF",
+                        "type": "text",
+                        "label": "Digite seu CPF",
+                        "pattern": "\\d{3}\\.\\d{3}\\.\\d{3}-\\d{2}",
+                        "mask": "000.000.000-00",
+                        "errorMessage": "CPF inválido"
+                    }
+                ],
+                "xhrUrl": "/score/blog/action-post/send-event/manualscore",
+                "submitRedirectUrl": "https://www.serasa.com.br/lno/static-webfiles/score/manual-do-score/Manual%20do%20Serasa%20Score%202.0.pdf",
+                "formSuccessMessage": "O manual será aberto em uma nova aba",
+                "formErrorMessage": "Serviço indisponível no momento",
+                "observations": "<p>Ao preencher o formulário, concordo com a <a target=\"_blank\" href=\"/app/politica-de-privacidade\">Política de Privacidade Serasa</a>.</p>"
+            }
+        },
+        {
+            "acf_fc_layout": "LIST_NEWS",
+            "props": {
+                "id": "",
+                "title": {
+                    "text": "Serasa na mídia",
+                    "tag": "h2"
+                },
+                "subtitle": {
+                    "text": "",
+                    "tag": "h5"
+                },
+                "position": "center",
+                "background": "snow",
+                "items": [
+                    {
+                        "title": {
+                            "text": "",
+                            "tag": "h2"
+                        },
+                        "description": "Serasa muda cálculo do score e dá mais peso para contas pagas",
+                        "midia": {
+                            "image": {
+                                "ID": 5969,
+                                "id": 5969,
+                                "title": "folha-de-sp",
+                                "filename": "folha-de-sp.jpg",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2020/folha-de-sp.jpg",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/b2b-limpa-nome/folha-de-sp/",
+                                "alt": "Logo da Folha de São Paulo",
+                                "author": "53",
+                                "description": "",
+                                "caption": "",
+                                "name": "folha-de-sp",
+                                "status": "inherit",
+                                "uploaded_to": 5728,
+                                "date": "2020-11-26 16:41:48",
+                                "modified": "2020-11-26 16:45:11",
+                                "menu_order": 0,
+                                "mime_type": "image/jpeg",
+                                "type": "image",
+                                "subtype": "jpeg",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 120,
+                                "height": 80,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2020/folha-de-sp.jpg",
+                                    "thumbnail-width": 120,
+                                    "thumbnail-height": 80,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2020/folha-de-sp.jpg",
+                                    "medium-width": 120,
+                                    "medium-height": 80,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2020/folha-de-sp.jpg",
+                                    "medium_large-width": 120,
+                                    "medium_large-height": 80,
+                                    "large": "https://www.serasa.com.br/assets/cms/2020/folha-de-sp.jpg",
+                                    "large-width": 120,
+                                    "large-height": 80,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2020/folha-de-sp.jpg",
+                                    "1536x1536-width": 120,
+                                    "1536x1536-height": 80,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2020/folha-de-sp.jpg",
+                                    "2048x2048-width": 120,
+                                    "2048x2048-height": 80
+                                }
+                            }
+                        },
+                        "hasButton": true,
+                        "button": {
+                            "label": "Ver matéria",
+                            "action": {
+                                "type": "link",
+                                "value": "https://www1.folha.uol.com.br/mercado/2021/05/serasa-muda-calculo-do-score-e-da-mais-peso-para-contas-pagas.shtml"
+                            }
+                        }
+                    },
+                    {
+                        "title": {
+                            "text": "",
+                            "tag": "h2"
+                        },
+                        "description": "Dívidas e calotes terão menos peso na nota que Serasa dá aos consumidores ",
+                        "midia": {
+                            "image": {
+                                "ID": 5916,
+                                "id": 5916,
+                                "title": "uol",
+                                "filename": "uol.jpg",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2020/uol.jpg",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/b2b-serasa/uol/",
+                                "alt": "uol",
+                                "author": "53",
+                                "description": "",
+                                "caption": "",
+                                "name": "uol",
+                                "status": "inherit",
+                                "uploaded_to": 5724,
+                                "date": "2020-11-26 13:48:13",
+                                "modified": "2021-06-02 14:41:25",
+                                "menu_order": 0,
+                                "mime_type": "image/jpeg",
+                                "type": "image",
+                                "subtype": "jpeg",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 120,
+                                "height": 80,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2020/uol.jpg",
+                                    "thumbnail-width": 120,
+                                    "thumbnail-height": 80,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2020/uol.jpg",
+                                    "medium-width": 120,
+                                    "medium-height": 80,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2020/uol.jpg",
+                                    "medium_large-width": 120,
+                                    "medium_large-height": 80,
+                                    "large": "https://www.serasa.com.br/assets/cms/2020/uol.jpg",
+                                    "large-width": 120,
+                                    "large-height": 80,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2020/uol.jpg",
+                                    "1536x1536-width": 120,
+                                    "1536x1536-height": 80,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2020/uol.jpg",
+                                    "2048x2048-width": 120,
+                                    "2048x2048-height": 80
+                                }
+                            }
+                        },
+                        "hasButton": true,
+                        "button": {
+                            "label": "Ver matéria",
+                            "action": {
+                                "type": "link",
+                                "value": "https://economia.uol.com.br/noticias/redacao/2021/05/26/serasa-muda-score-de-credito-para-valorizar-bons-pagadores.htm"
+                            }
+                        }
+                    },
+                    {
+                        "title": {
+                            "text": "",
+                            "tag": "h2"
+                        },
+                        "description": "Serasa lança Score 2.0, com maior peso para hábitos positivos",
+                        "midia": {
+                            "image": {
+                                "ID": 5967,
+                                "id": 5967,
+                                "title": "estadao",
+                                "filename": "2tGtTbBd-estadao.jpg",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2020/2tGtTbBd-estadao.jpg",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/b2b-limpa-nome/estadao-2/",
+                                "alt": "Logo do Estadão",
+                                "author": "53",
+                                "description": "",
+                                "caption": "",
+                                "name": "estadao-2",
+                                "status": "inherit",
+                                "uploaded_to": 5728,
+                                "date": "2020-11-26 16:41:47",
+                                "modified": "2021-06-02 14:45:58",
+                                "menu_order": 0,
+                                "mime_type": "image/jpeg",
+                                "type": "image",
+                                "subtype": "jpeg",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 120,
+                                "height": 80,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2020/2tGtTbBd-estadao.jpg",
+                                    "thumbnail-width": 120,
+                                    "thumbnail-height": 80,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2020/2tGtTbBd-estadao.jpg",
+                                    "medium-width": 120,
+                                    "medium-height": 80,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2020/2tGtTbBd-estadao.jpg",
+                                    "medium_large-width": 120,
+                                    "medium_large-height": 80,
+                                    "large": "https://www.serasa.com.br/assets/cms/2020/2tGtTbBd-estadao.jpg",
+                                    "large-width": 120,
+                                    "large-height": 80,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2020/2tGtTbBd-estadao.jpg",
+                                    "1536x1536-width": 120,
+                                    "1536x1536-height": 80,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2020/2tGtTbBd-estadao.jpg",
+                                    "2048x2048-width": 120,
+                                    "2048x2048-height": 80
+                                }
+                            }
+                        },
+                        "hasButton": true,
+                        "button": {
+                            "label": "Ver matéria",
+                            "action": {
+                                "type": "link",
+                                "value": "https://einvestidor.estadao.com.br/ultimas/serasa-lanca-score-2-0/"
+                            }
+                        }
+                    },
+                    {
+                        "title": {
+                            "text": "",
+                            "tag": "h2"
+                        },
+                        "description": "Serasa muda análise de crédito e eleva pontuação de brasileiros",
+                        "midia": {
+                            "image": {
+                                "ID": 11395,
+                                "id": 11395,
+                                "title": "Dimensões personalizadas 120x120 px (1)",
+                                "filename": "Dimensoes-personalizadas-120x120-px-1.jpeg",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-120x120-px-1.jpeg",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/dimensoes-personalizadas-120x120-px-1/",
+                                "alt": "",
+                                "author": "53",
+                                "description": "",
+                                "caption": "",
+                                "name": "dimensoes-personalizadas-120x120-px-1",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-06-02 14:52:35",
+                                "modified": "2021-06-02 14:52:35",
+                                "menu_order": 0,
+                                "mime_type": "image/jpeg",
+                                "type": "image",
+                                "subtype": "jpeg",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 120,
+                                "height": 120,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-120x120-px-1.jpeg",
+                                    "thumbnail-width": 120,
+                                    "thumbnail-height": 120,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-120x120-px-1.jpeg",
+                                    "medium-width": 120,
+                                    "medium-height": 120,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-120x120-px-1.jpeg",
+                                    "medium_large-width": 120,
+                                    "medium_large-height": 120,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-120x120-px-1.jpeg",
+                                    "large-width": 120,
+                                    "large-height": 120,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-120x120-px-1.jpeg",
+                                    "1536x1536-width": 120,
+                                    "1536x1536-height": 120,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-120x120-px-1.jpeg",
+                                    "2048x2048-width": 120,
+                                    "2048x2048-height": 120
+                                }
+                            }
+                        },
+                        "hasButton": true,
+                        "button": {
+                            "label": "Ver matéria",
+                            "action": {
+                                "type": "link",
+                                "value": "https://noticias.r7.com/economia/economize/serasa-muda-analise-de-credito-e-eleva-pontuacao-de-brasileiros-26052021"
+                            }
+                        }
+                    },
+                    {
+                        "title": {
+                            "text": "",
+                            "tag": "h2"
+                        },
+                        "description": "Serasa lança novo score de crédito. Entenda o que muda",
+                        "midia": {
+                            "image": {
+                                "ID": 5857,
+                                "id": 5857,
+                                "title": "logo-exame",
+                                "filename": "logo-exame.png",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2020/logo-exame.png",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/b2b-ecred/logo-exame/",
+                                "alt": "exame",
+                                "author": "53",
+                                "description": "",
+                                "caption": "",
+                                "name": "logo-exame",
+                                "status": "inherit",
+                                "uploaded_to": 5726,
+                                "date": "2020-11-24 19:23:42",
+                                "modified": "2020-11-25 13:35:56",
+                                "menu_order": 0,
+                                "mime_type": "image/png",
+                                "type": "image",
+                                "subtype": "png",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 120,
+                                "height": 80,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2020/logo-exame.png",
+                                    "thumbnail-width": 120,
+                                    "thumbnail-height": 80,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2020/logo-exame.png",
+                                    "medium-width": 120,
+                                    "medium-height": 80,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2020/logo-exame.png",
+                                    "medium_large-width": 120,
+                                    "medium_large-height": 80,
+                                    "large": "https://www.serasa.com.br/assets/cms/2020/logo-exame.png",
+                                    "large-width": 120,
+                                    "large-height": 80,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2020/logo-exame.png",
+                                    "1536x1536-width": 120,
+                                    "1536x1536-height": 80,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2020/logo-exame.png",
+                                    "2048x2048-width": 120,
+                                    "2048x2048-height": 80
+                                }
+                            }
+                        },
+                        "hasButton": true,
+                        "button": {
+                            "label": "Ver matéria",
+                            "action": {
+                                "type": "link",
+                                "value": "https://invest.exame.com/mf/serasa-lanca-novo-score-de-credito-entenda-o-que-muda"
+                            }
+                        }
+                    },
+                    {
+                        "title": {
+                            "text": "",
+                            "tag": "h2"
+                        },
+                        "description": "Serasa muda cálculo do score de crédito; entenda como fica",
+                        "midia": {
+                            "image": {
+                                "ID": 11398,
+                                "id": 11398,
+                                "title": "valor__",
+                                "filename": "valor__.jpg",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/valor__.jpg",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/valor__/",
+                                "alt": "",
+                                "author": "53",
+                                "description": "",
+                                "caption": "",
+                                "name": "valor__",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-06-02 15:11:25",
+                                "modified": "2021-06-02 15:11:25",
+                                "menu_order": 0,
+                                "mime_type": "image/jpeg",
+                                "type": "image",
+                                "subtype": "jpeg",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 368,
+                                "height": 366,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/valor__-150x150.jpg",
+                                    "thumbnail-width": 150,
+                                    "thumbnail-height": 150,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/valor__-300x298.jpg",
+                                    "medium-width": 300,
+                                    "medium-height": 298,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/valor__.jpg",
+                                    "medium_large-width": 368,
+                                    "medium_large-height": 366,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/valor__.jpg",
+                                    "large-width": 368,
+                                    "large-height": 366,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/valor__.jpg",
+                                    "1536x1536-width": 368,
+                                    "1536x1536-height": 366,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/valor__.jpg",
+                                    "2048x2048-width": 368,
+                                    "2048x2048-height": 366
+                                }
+                            }
+                        },
+                        "hasButton": true,
+                        "button": {
+                            "label": "Ver matéria",
+                            "action": {
+                                "type": "link",
+                                "value": "https://valorinveste.globo.com/produtos/credito/noticia/2021/05/28/serasa-muda-calculo-do-score-de-credito-entenda-como-fica.ghtml   "
+                            }
+                        }
+                    },
+                    {
+                        "title": {
+                            "text": "",
+                            "tag": "h2"
+                        },
+                        "description": "Serasa lança score para hábitos positivos",
+                        "midia": {
+                            "image": {
+                                "ID": 11399,
+                                "id": 11399,
+                                "title": "Dimensões personalizadas 120x120 px (3)",
+                                "filename": "Dimensoes-personalizadas-120x120-px-3.jpeg",
+                                "filesize": 0,
+                                "url": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-120x120-px-3.jpeg",
+                                "link": "https://k8s-web-medusa-api-prd.ecsbr.net/serasa-score-home/dimensoes-personalizadas-120x120-px-3/",
+                                "alt": "",
+                                "author": "53",
+                                "description": "",
+                                "caption": "",
+                                "name": "dimensoes-personalizadas-120x120-px-3",
+                                "status": "inherit",
+                                "uploaded_to": 10689,
+                                "date": "2021-06-02 15:15:53",
+                                "modified": "2021-06-02 15:15:53",
+                                "menu_order": 0,
+                                "mime_type": "image/jpeg",
+                                "type": "image",
+                                "subtype": "jpeg",
+                                "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                                "width": 120,
+                                "height": 120,
+                                "sizes": {
+                                    "thumbnail": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-120x120-px-3.jpeg",
+                                    "thumbnail-width": 120,
+                                    "thumbnail-height": 120,
+                                    "medium": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-120x120-px-3.jpeg",
+                                    "medium-width": 120,
+                                    "medium-height": 120,
+                                    "medium_large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-120x120-px-3.jpeg",
+                                    "medium_large-width": 120,
+                                    "medium_large-height": 120,
+                                    "large": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-120x120-px-3.jpeg",
+                                    "large-width": 120,
+                                    "large-height": 120,
+                                    "1536x1536": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-120x120-px-3.jpeg",
+                                    "1536x1536-width": 120,
+                                    "1536x1536-height": 120,
+                                    "2048x2048": "https://www.serasa.com.br/assets/cms/2021/Dimensoes-personalizadas-120x120-px-3.jpeg",
+                                    "2048x2048-width": 120,
+                                    "2048x2048-height": 120
+                                }
+                            }
+                        },
+                        "hasButton": true,
+                        "button": {
+                            "label": "Ver matéria",
+                            "action": {
+                                "type": "link",
+                                "value": "https://www.band.uol.com.br/bandnews-tv/noticias/serasa-lanca-score-para-habitos-positivos-16351576"
+                            }
+                        }
+                    }
+                ],
+                "space": "m"
+            }
+        },
+        {
+            "acf_fc_layout": "MIDIA_BLOCK",
+            "props": {
+                "id": "",
+                "type": "image",
+                "image": {
+                    "ID": 7735,
+                    "id": 7735,
+                    "title": "Consulta CNPJ",
+                    "filename": "comunicado.png",
+                    "filesize": 0,
+                    "url": "https://www.serasa.com.br/assets/cms/2021/comunicado.png",
+                    "link": "https://k8s-web-medusa-api-prd.ecsbr.net/?attachment_id=7735",
+                    "alt": "Consulta CNPJ",
+                    "author": "53",
+                    "description": "",
+                    "caption": "Consulta CNPJ",
+                    "name": "comunicado",
+                    "status": "inherit",
+                    "uploaded_to": 7665,
+                    "date": "2021-02-11 22:32:15",
+                    "modified": "2021-07-22 15:32:11",
+                    "menu_order": 0,
+                    "mime_type": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                    "width": 704,
+                    "height": 528,
+                    "sizes": {
+                        "thumbnail": "https://www.serasa.com.br/assets/cms/2021/comunicado-150x150.png",
+                        "thumbnail-width": 150,
+                        "thumbnail-height": 150,
+                        "medium": "https://www.serasa.com.br/assets/cms/2021/comunicado-300x225.png",
+                        "medium-width": 300,
+                        "medium-height": 225,
+                        "medium_large": "https://www.serasa.com.br/assets/cms/2021/comunicado.png",
+                        "medium_large-width": 704,
+                        "medium_large-height": 528,
+                        "large": "https://www.serasa.com.br/assets/cms/2021/comunicado.png",
+                        "large-width": 704,
+                        "large-height": 528,
+                        "1536x1536": "https://www.serasa.com.br/assets/cms/2021/comunicado.png",
+                        "1536x1536-width": 704,
+                        "1536x1536-height": 528,
+                        "2048x2048": "https://www.serasa.com.br/assets/cms/2021/comunicado.png",
+                        "2048x2048-width": 704,
+                        "2048x2048-height": 528
+                    }
+                },
+                "video": {
+                    "url": ""
+                },
+                "space": "m",
+                "title": {
+                    "text": "Quer saber mais sobre Score 2.0? Acesse a FAQ e também confira as perguntas mais frequentes abaixo:",
+                    "tag": "h2"
+                },
+                "subtitle": {
+                    "text": "",
+                    "tag": "h5"
+                },
+                "content": "",
+                "size": "m",
+                "position": "right",
+                "hasButton": true,
+                "button": {
+                    "modifier": "solid",
+                    "full": true,
+                    "label": "FAQ",
+                    "link": "https://www.serasa.com.br/score/faq"
+                },
+                "events": [
+                    {
+                        "key": "click",
+                        "attrs": [
+                            {
+                                "attr": "data-vars-category",
+                                "value": "serasa-score-home"
+                            },
+                            {
+                                "attr": "data-vars-action",
+                                "value": "clique-botao"
+                            },
+                            {
+                                "attr": "data-vars-label",
+                                "value": "faq"
+                            },
+                            {
+                                "attr": "data-vars-vertical_produto",
+                                "value": "serasa-score"
+                            },
+                            {
+                                "attr": "data-vars-area",
+                                "value": "home"
+                            },
+                            {
+                                "attr": "data-vars-ambiente",
+                                "value": "deslogado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "acf_fc_layout": "ACCORDION",
+            "props": {
+                "id": "",
+                "title": {
+                    "text": "Dúvidas frequentes",
+                    "tag": "h2"
+                },
+                "subtitle": {
+                    "text": "",
+                    "tag": "h5"
+                },
+                "items": [
+                    {
+                        "title": "Quem consulta meu score?",
+                        "content": "<p>Empresas de diferentes segmentos podem avaliar sua pontuação como parte do processo de análise de crédito. As principais são: </p><p>&#8211; Bancos e instituições financeiras;<br />&#8211; Seguradoras;<br />&#8211; Construtoras e imobiliárias;<br />&#8211; Operadoras de Internet e telefonia;<br />&#8211; Lojas de departamento;<br />&#8211; Instituições que oferecem financiamentos estudantis.  </p><p>Vale lembrar que a aprovação de crédito é sempre uma decisão das empresas, e não da Serasa. A sua pontuação de crédito é só um dos fatores que são levados em consideração nessa decisão.  </p>"
+                    },
+                    {
+                        "title": "Meu score está oscilando. Devo me preocupar?",
+                        "content": "<p>Oscilações de até 100 pontos são normais e não geram muito impacto. Para o mercado o que mais importa é o seu perfil financeiro, representado pela sua faixa de risco. Por isso, é mais importante entender a sua faixa e tentar continuar dentro dela – ou avançar para uma melhor – do que se preocupar com as oscilações. Confira as faixas de risco do Serasa Score 2.0 de acordo com a sua pontuação: </p><p><strong>Muito bom:</strong> 701 &#8211; 1000<br /><strong>Bom:</strong> 501 &#8211; 700<br /><strong>Regular:</strong> 301 &#8211; 500<br /><strong>Baixo:</strong> 0-300</p>"
+                    },
+                    {
+                        "title": "Como aumentar o meu score?",
+                        "content": "<p>É possível <a href=\"https://www.serasa.com.br/score/turbo/\" rel=\"noopener\" target=\"_blank\">aumentar seus pontos</a> por meio de algumas iniciativas, mas é importante lembrar que as ações para aumentar o score não têm efeito imediato. Existe uma lista de <strong>boas práticas</strong> para alcançar uma pontuação melhor: limpar o nome, pagar as contas em dia, ter os dados atualizados na Serasa e manter seu <strong><a href=\"https://www.serasa.com.br/cadastro-positivo/\" rel=\"noopener\" target=\"_blank\">Cadastro Positivo</a></strong> ativo são algumas delas. Para mais dicas financeiras, visite o <a href=\"https://www.serasa.com.br/ensina/\" rel=\"noopener\" target=\"_blank\">Serasa Ensina</a>.   </p>"
+                    },
+                    {
+                        "title": "Por que meu score é baixo?",
+                        "content": "<p>O score representa seu perfil de crédito. Quando você está com sua pontuação baixa, isso indica que, com base no seu comportamento financeiro, as chances de pagar as contas em dia também são baixas. Consequentemente, pode haver uma dificuldade de acesso a empréstimos, cartões de crédito, financiamentos e outras linhas de crédito. Você pode consultar seu score grátis na <a href=\"https://www.serasa.dev/score/?v=true&amp;vp=score&amp;vpth=%2Fscore%2F&amp;vt=Voltar&amp;vru=%2Farea-cliente\" rel=\"noopener\" target=\"_blank\">Serasa</a> a qualquer momento e descobrir quais motivos estão fazendo a sua pontuação cair.</p>"
+                    },
+                    {
+                        "title": "Por que o meu Serasa Score ainda não mudou para a versão 2.0? ",
+                        "content": "<p>A partir de 26/05/2021, o Serasa Score 2.0 está sendo disponibilizado para milhões de brasileiros de forma gradativa e, por enquanto, pode ser consultado exclusivamente pelo aplicativo da Serasa. Dentro dos próximos dias, a pontuação estará atualizada para todos.  </p>"
+                    },
+                    {
+                        "title": "Como o Serasa Score 2.0 é calculado?",
+                        "content": "<p>A pontuação de crédito da <a href=\"https://www.serasa.com.br/score/mapa-do-site\" rel=\"noopener\" target=\"_blank\">Serasa </a>é calculada por um modelo estatístico, usando diversas informações relevantes que são divididas em seis categorias: comportamento de consultas/consultas para serviço e crédito, crédito contratado, histórico de dívidas, pagamento de crédito, pagamento de dívidas e tempo de uso do crédito. Cada categoria tem uma importância, um peso para determinar a sua pontuação final. Você pode conferir mais detalhes sobre o <a href=\"https://www.serasa.com.br/score/score-2-0/\" rel=\"noopener\" target=\"_blank\">cálculo do Serasa Score 2.0 aqui</a>. </p>"
+                    },
+                    {
+                        "title": "CPF na nota aumenta score?",
+                        "content": "<p>Não. A inclusão do CPF na nota fiscal não faz parte das informações que são usadas para o cálculo do seu Serasa Score. Assim, colocar ou não o CPF na nota não afeta sua pontuação.<br />Saiba mais:<br /><a href=\"https://youtu.be/e8g3AwgMO2U\" rel=\"noopener\" target=\"_blank\">CPF na nota não aumenta score</a></p>"
+                    }
+                ],
+                "space": "m"
+            }
+        },
+        {
+            "acf_fc_layout": "MIDIA_BLOCK",
+            "props": {
+                "id": "",
+                "type": "image",
+                "image": {
+                    "ID": 7563,
+                    "id": 7563,
+                    "title": "ilustração de atendente serasa",
+                    "filename": "img-hero-704-002.png",
+                    "filesize": 0,
+                    "url": "https://www.serasa.com.br/assets/cms/2021/img-hero-704-002.png",
+                    "link": "https://k8s-web-medusa-api-prd.ecsbr.net/ecred-deal-emprestimo-consignado/img-hero-704-002/",
+                    "alt": "ilustração de atendente serasa",
+                    "author": "53",
+                    "description": "ilustração de atendente serasa limpa nome",
+                    "caption": "ilustração de atendente serasa ",
+                    "name": "img-hero-704-002",
+                    "status": "inherit",
+                    "uploaded_to": 7208,
+                    "date": "2021-02-10 11:46:28",
+                    "modified": "2021-09-13 13:49:30",
+                    "menu_order": 0,
+                    "mime_type": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                    "width": 704,
+                    "height": 528,
+                    "sizes": {
+                        "thumbnail": "https://www.serasa.com.br/assets/cms/2021/img-hero-704-002-150x150.png",
+                        "thumbnail-width": 150,
+                        "thumbnail-height": 150,
+                        "medium": "https://www.serasa.com.br/assets/cms/2021/img-hero-704-002-300x225.png",
+                        "medium-width": 300,
+                        "medium-height": 225,
+                        "medium_large": "https://www.serasa.com.br/assets/cms/2021/img-hero-704-002.png",
+                        "medium_large-width": 704,
+                        "medium_large-height": 528,
+                        "large": "https://www.serasa.com.br/assets/cms/2021/img-hero-704-002.png",
+                        "large-width": 704,
+                        "large-height": 528,
+                        "1536x1536": "https://www.serasa.com.br/assets/cms/2021/img-hero-704-002.png",
+                        "1536x1536-width": 704,
+                        "1536x1536-height": 528,
+                        "2048x2048": "https://www.serasa.com.br/assets/cms/2021/img-hero-704-002.png",
+                        "2048x2048-width": 704,
+                        "2048x2048-height": 528
+                    }
+                },
+                "video": {
+                    "url": ""
+                },
+                "space": "s",
+                "title": {
+                    "text": "Ficou com alguma dúvida?",
+                    "tag": "h2"
+                },
+                "subtitle": {
+                    "text": "",
+                    "tag": "h5"
+                },
+                "content": "<p>Acesse nossa Central de Ajuda e registre sua solicitação. </p>",
+                "size": "m",
+                "position": "left",
+                "hasButton": true,
+                "button": {
+                    "modifier": "solid",
+                    "full": true,
+                    "label": "Central de Ajuda",
+                    "link": "https://ajuda.serasa.com.br/hc/pt-br/requests/new?ticket_form_id=114094009991"
+                },
+                "events": [
+                    {
+                        "key": "click",
+                        "attrs": [
+                            {
+                                "attr": "data-vars-category",
+                                "value": "serasa-score-home"
+                            },
+                            {
+                                "attr": "data-vars-action",
+                                "value": "clique-botao"
+                            },
+                            {
+                                "attr": "data-vars-label",
+                                "value": "central-de-ajuda"
+                            },
+                            {
+                                "attr": "data-vars-vertical_produto",
+                                "value": "serasa-score"
+                            },
+                            {
+                                "attr": "data-vars-area",
+                                "value": "home"
+                            },
+                            {
+                                "attr": "data-vars-ambiente",
+                                "value": "deslogado"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "acf_fc_layout": "MIDIA_BLOCK",
+            "props": {
+                "id": "",
+                "type": "video",
+                "image": {
+                    "ID": 7563,
+                    "id": 7563,
+                    "title": "ilustração de atendente serasa",
+                    "filename": "img-hero-704-002.png",
+                    "filesize": 0,
+                    "url": "https://www.serasa.com.br/assets/cms/2021/img-hero-704-002.png",
+                    "link": "https://k8s-web-medusa-api-prd.ecsbr.net/ecred-deal-emprestimo-consignado/img-hero-704-002/",
+                    "alt": "ilustração de atendente serasa",
+                    "author": "53",
+                    "description": "ilustração de atendente serasa limpa nome",
+                    "caption": "ilustração de atendente serasa ",
+                    "name": "img-hero-704-002",
+                    "status": "inherit",
+                    "uploaded_to": 7208,
+                    "date": "2021-02-10 11:46:28",
+                    "modified": "2021-09-13 13:49:30",
+                    "menu_order": 0,
+                    "mime_type": "image/png",
+                    "type": "image",
+                    "subtype": "png",
+                    "icon": "https://k8s-web-medusa-api-prd.ecsbr.net/wp-includes/images/media/default.png",
+                    "width": 704,
+                    "height": 528,
+                    "sizes": {
+                        "thumbnail": "https://www.serasa.com.br/assets/cms/2021/img-hero-704-002-150x150.png",
+                        "thumbnail-width": 150,
+                        "thumbnail-height": 150,
+                        "medium": "https://www.serasa.com.br/assets/cms/2021/img-hero-704-002-300x225.png",
+                        "medium-width": 300,
+                        "medium-height": 225,
+                        "medium_large": "https://www.serasa.com.br/assets/cms/2021/img-hero-704-002.png",
+                        "medium_large-width": 704,
+                        "medium_large-height": 528,
+                        "large": "https://www.serasa.com.br/assets/cms/2021/img-hero-704-002.png",
+                        "large-width": 704,
+                        "large-height": 528,
+                        "1536x1536": "https://www.serasa.com.br/assets/cms/2021/img-hero-704-002.png",
+                        "1536x1536-width": 704,
+                        "1536x1536-height": 528,
+                        "2048x2048": "https://www.serasa.com.br/assets/cms/2021/img-hero-704-002.png",
+                        "2048x2048-width": 704,
+                        "2048x2048-height": 528
+                    }
+                },
+                "video": {
+                    "url": "fDTG-HUWUuw"
+                },
+                "space": "m",
+                "title": {
+                    "text": "Acompanhe seu Score Serasa",
+                    "tag": "h2"
+                },
+                "subtitle": {
+                    "text": "",
+                    "tag": "h5"
+                },
+                "content": "",
+                "size": "m",
+                "position": "left",
+                "hasButton": false,
+                "button": {
+                    "modifier": "solid",
+                    "full": true,
+                    "label": "Central de Ajuda",
+                    "link": "https://ajuda.serasa.com.br/hc/pt-br/requests/new?ticket_form_id=114094009991"
+                },
+                "events": false
+            }
+        },
+        {
+            "acf_fc_layout": "TEXT_BLOCK",
+            "props": {
+                "id": "",
+                "title": {
+                    "text": "",
+                    "tag": "h2"
+                },
+                "subtitle": {
+                    "text": "",
+                    "tag": "h5"
+                },
+                "content": "<p>O cadastro de inadimplentes (com exceção dos emancipados) e o cálculo do Serasa Score estão restritos às pessoas maiores de 18 anos. O Serasa Score 2.0 é um serviço lícito, conforme decisão do Superior Tribunal de Justiça, que reconheceu que não há necessidade de autorização do consumidor para a sua disponibilização ao mercado. O tratamento de dados pessoais para uso no score é destinado a proteção do crédito, feito conforme determina a <a href=\"https://www.serasa.com.br/protecao-dados-pessoais/como-tratamos-seus-dados\" rel=\"noopener\" target=\"_blank\">LGPD</a>, não havendo necessidade de autorização expressa do titular.</p><p>Seu Score irá subir com o tempo. Lembre-se que a recuperação da pontuação não é imediata e faz parte de um processo de mudança de comportamento, para que o mercado volte a confiar na sua capacidade de pagamento.</p><p>Você pode se descadastrar da plataforma Serasa a qualquer momento e poderá se cadastrar novamente por meio de novo login e senha. Lembramos que o Serasa Score 2.0 continua sendo calculado independentemente desse cadastro. <a href=\"https://www.serasa.com.br/entrar?product=score&amp;redirectUrl=/area-cliente/minha-conta/dados-pessoais\" rel=\"noopener\" target=\"_blank\">Clique aqui para se descadastrar</a>.</p>",
+                "space": "s",
+                "size": "m",
+                "hasButton": false,
+                "button": {
+                    "modifier": "ghost",
+                    "full": true,
+                    "label": "",
+                    "link": ""
+                },
+                "events": false
+            }
+        }
+    ]
+}

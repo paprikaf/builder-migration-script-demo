@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "allowJs": true,
+    "strict": true,
+    "moduleResolution": "node",
+    "target": "es6",
+    "module": "commonjs",
+    "sourceMap": true
+  },
+  "include": [
+    "script.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

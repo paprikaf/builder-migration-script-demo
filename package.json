@@ -1,0 +1,19 @@
+{
+  "name": "migration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx ts-node script.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
