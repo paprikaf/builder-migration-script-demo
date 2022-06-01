@@ -1,6 +1,13 @@
 const axios = require('axios');
 const scoreJson = require('./score.json')
 
+const categoryNameMap: any = {
+  MIDIA_BLOCK: 'MidiaBlock',
+  TEXT_BLOCK: 'TextBlock',
+  CTA: 'Cta',
+  HERO_PRODUCT: 'HeroProduct'
+}
+
 async function postData(body: any) {
   const res = await axios({
     method: 'post',
@@ -20,10 +27,10 @@ const MODEL_NAME = 'blog-page'
 
 async function main() {
   console.log('starting...', scoreJson.title)
-  const contentBody = <any>[]
+  const blocks = <any>[]
 
   scoreJson?.body?.map((layoutItem: any) => {
-    let section: any = {
+    let options: any = {
       category: layoutItem.acf_fc_layout,
       title: layoutItem.props.title?.text,
       titleTag: layoutItem.props.title?.tag,
@@ -32,8 +39,8 @@ async function main() {
     }
 
     if (layoutItem.acf_fc_layout === 'MIDIA_BLOCK') {
-      section = {
-        ...section,
+      options = {
+        ...options,
         type: layoutItem.props.type,
         image: layoutItem.props.image,
         video: layoutItem.props.video,
@@ -43,19 +50,26 @@ async function main() {
         button: layoutItem.props.button
       }
     } else if (layoutItem.acf_fc_layout === 'TEXT_BLOCK') {
-      section = {
-        ...section,
+      options = {
+        ...options,
         content: layoutItem.props.content,
       }
     } else if (layoutItem.acf_fc_layout === 'CTA') {
-     section = {
-       ...section,
+      options = {
+       ...options,
         background: layoutItem.props.background,
         button: layoutItem.props.button
      }
     }
 
-    contentBody.push(section)
+    blocks.push({
+      "@type": "@builder.io/sdk:Element",
+      "@version": 2,
+      component: {
+        "name": categoryNameMap[layoutItem.acf_fc_layout],
+        options,
+      }
+    })
   })
 
   const res = await postData(
@@ -72,7 +86,7 @@ async function main() {
         title: scoreJson.title,
         url: scoreJson.url,
         metaTags: scoreJson.metaTags,
-        content: contentBody,
+        blocks: blocks,
       }
     }
   )
