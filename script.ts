@@ -71,8 +71,6 @@ async function main() {
       data: {
         title: scoreJson.title,
         url: scoreJson.url,
-        pageUrl: scoreJson.url,
-        target: scoreJson.url,
         metaTags: scoreJson.metaTags,
         content: contentBody,
       }
