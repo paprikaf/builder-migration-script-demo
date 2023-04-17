@@ -13,7 +13,7 @@ async function postData(body: any) {
     method: 'post',
     url: `https://builder.io/api/v1/write/${MODEL_NAME}`,
     headers: {
-      'Authorization': 'Bearer bpk-4ba270fe3c7f40cb97e0b7f24e6843b6',
+      'Authorization': 'Your private space key goes here',
       'Content-Type': 'application/json',
     },
     data: body,
