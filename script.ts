@@ -1,5 +1,5 @@
 const axios = require('axios');
-const scoreJson = require('./score.json')
+const contentJson = require('./content.json')
 
 const categoryNameMap: any = {
   MIDIA_BLOCK: 'MidiaBlock',
@@ -26,10 +26,10 @@ async function postData(body: any) {
 const MODEL_NAME = 'blog-page'
 
 async function main() {
-  console.log('starting...', scoreJson.title)
+  console.log('starting...', contentJson.title)
   const blocks = <any>[]
 
-  scoreJson?.body?.map((layoutItem: any) => {
+  contentJson?.body?.map((layoutItem: any) => {
     let options: any = {
       category: layoutItem.acf_fc_layout,
       title: layoutItem.props.title?.text,
@@ -74,18 +74,18 @@ async function main() {
 
   const res = await postData(
     {
-      name:  scoreJson.url.replaceAll('/', ''),
+      name:  contentJson.url.replaceAll('/', ''),
       query: [
         {
           "property": "urlPath",
           "operator": "is", // can be `startsWith` to match any urls that starts with value
-          "value": scoreJson.url // must start with /
+          "value": contentJson.url // must start with /
         }
       ],
       data: {
-        title: scoreJson.title,
-        url: scoreJson.url,
-        metaTags: scoreJson.metaTags,
+        title: contentJson.title,
+        url: contentJson.url,
+        metaTags: contentJson.metaTags,
         blocks: blocks,
       }
     }
