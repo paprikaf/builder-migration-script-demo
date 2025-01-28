@@ -1,19 +1,15 @@
 const axios = require('axios');
-const contentJson = require('./content.json')
+const newContent = require('./newContent.json');
 
-const categoryNameMap: any = {
-  MIDIA_BLOCK: 'MidiaBlock',
-  TEXT_BLOCK: 'TextBlock',
-  CTA: 'Cta',
-  HERO_PRODUCT: 'HeroProduct'
-}
+const MODEL_NAME = 'bizzkit-data' // Changed to indicate this is a data model
+const PRIVATE_API_KEY = 'bpk-6047a01056024e5d920f996dbd919ebf' // Remove the 'bpk-' prefix
 
 async function postData(body: any) {
   const res = await axios({
     method: 'post',
     url: `https://builder.io/api/v1/write/${MODEL_NAME}`,
     headers: {
-      'Authorization': 'Your private space key goes here',
+      'Authorization': `Bearer ${PRIVATE_API_KEY}`,  // Add 'Bearer' prefix
       'Content-Type': 'application/json',
     },
     data: body,
@@ -22,80 +18,107 @@ async function postData(body: any) {
   return res;
 }
 
-
-const MODEL_NAME = 'blog-page'
-
-async function main() {
-  console.log('starting...', contentJson.title)
-  const blocks = <any>[]
-
-  contentJson?.body?.map((layoutItem: any) => {
-    let options: any = {
-      category: layoutItem.acf_fc_layout,
-      title: layoutItem.props.title?.text,
-      titleTag: layoutItem.props.title?.tag,
-      subtitle: layoutItem.props.subtitle?.text,
-      subtitleTag: layoutItem.props.subtitle?.tag,
-    }
-
-    if (layoutItem.acf_fc_layout === 'MIDIA_BLOCK') {
-      options = {
-        ...options,
-        type: layoutItem.props.type,
-        image: layoutItem.props.image,
-        video: layoutItem.props.video,
-        position: layoutItem.props.position,
-        content: layoutItem.props.content,
-        hasButton: layoutItem.props.hasButton,
-        button: layoutItem.props.button
-      }
-    } else if (layoutItem.acf_fc_layout === 'TEXT_BLOCK') {
-      options = {
-        ...options,
-        content: layoutItem.props.content,
-      }
-    } else if (layoutItem.acf_fc_layout === 'CTA') {
-      options = {
-       ...options,
-        background: layoutItem.props.background,
-        button: layoutItem.props.button
-     }
-    }
-
-    blocks.push({
-      "@type": "@builder.io/sdk:Element",
-      "@version": 2,
-      component: {
-        "name": categoryNameMap[layoutItem.acf_fc_layout],
-        options,
-      }
-    })
-  })
-
-  const res = await postData(
-    {
-      name:  contentJson.url.replaceAll('/', ''),
-      query: [
-        {
-          "property": "urlPath",
-          "operator": "is", // can be `startsWith` to match any urls that starts with value
-          "value": contentJson.url // must start with /
-        }
-      ],
-      data: {
-        title: contentJson.title,
-        url: contentJson.url,
-        metaTags: contentJson.metaTags,
-        blocks: blocks,
-      }
-    }
-  )
-
-  console.log('response ', res.status, res.statusText)
-  
+function cleanObject(obj: any) {
+  return Object.fromEntries(
+    Object.entries(obj).filter(([_, v]) => v != null)
+  );
 }
 
+async function main() {
+  // Debug logging
+  console.log('Content structure:', {
+    hasResponse: !!newContent?.response,
+    hasFrontendContent: !!newContent?.response?.frontendContent,
+    hasMenuInfo: !!newContent?.response?.frontendContent?.cmsArticleMenuInfo,
+  });
+
+  // Safely transform data with null checks
+  const transformedData = {
+    header: {
+      breadcrumbs: newContent?.response?.frontendContent?.cmsArticleMenuInfo?.cmsBreadcrumbs?.map((crumb: any) => ({
+        url: crumb.link,
+        text: crumb.text
+      })) || [],
+      navigation: newContent?.response?.frontendContent?.cmsArticleMenuInfo?.menuTrees || []
+    },
+
+    siteSettings: {
+      clickAndCollect: newContent?.response?.frontendContent?.clickAndCollectedEnabled || false,
+      powerstep: newContent?.response?.frontendContent?.powerstepEnabled || false,
+      useDaellsSkin: newContent?.response?.frontendContent?.useDaellsSkin || false,
+      favoritesCount: newContent?.response?.frontendContent?.favoritesCount || 0
+    },
+
+    navigation: {
+      staticLinks: newContent?.response?.frontendContent?.staticLinks?.map((link: any) => ({
+        url: link.url,
+        text: link.text
+      })) || [],
+      topBanner: newContent?.response?.frontendContent?.topBannerInfo?.url || null
+    },
+
+    content: newContent?.response?.frontendContent?.gridRows?.map((row: any) => ({
+      id: row.id,
+      order: row.orderNum,
+      columns: row.gridColumns?.map((column: any) => ({
+        id: column.id,
+        width: column.units,
+        blocks: column.columnLayers?.flatMap((layer: any) => 
+          layer.contentBlockGroups?.flatMap((group: any) =>
+            group.contentBlocks?.map((block: any) => {
+              if (!block.value?.blockTypeName) {
+                console.warn('Block missing type:', block);
+                return null;
+              }
+              return cleanObject({
+                type: block.value?.blockTypeName,
+                mobileHidden: block.hideOnMobile || false,
+                order: block.orderNum || 0,
+                url: block.value?.url || null,
+                imageUrl: block.value?.cmsBlockImageInfo?.defaultFile || null,
+                mobileImageUrl: block.value?.cmsBlockImageInfo?.mobileFile || null,
+                alt: block.value?.cmsBlockImageInfo?.thumbnailAlternativeText || null,
+                text: block.value?.html || null,
+                height: block.value?.heightClass || null,
+                categoryId: block.value?.categoryId || null,
+                numberOfProducts: block.value?.numberOfProducts || null
+              });
+            }) || []
+          ) || []
+        ) || []
+      })) || []
+    })) || []
+  }
+
+  // Debug the transformed data
+  console.log('Transformed data structure:', {
+    hasHeader: !!transformedData.header,
+    hasBreadcrumbs: !!transformedData.header.breadcrumbs,
+    breadcrumbsLength: transformedData.header.breadcrumbs.length,
+    hasNavigation: !!transformedData.navigation,
+    hasContent: !!transformedData.content,
+    contentLength: transformedData.content.length
+  });
+
+  // Post to Builder.io
+  const res = await postData({
+    name: 'homepage-data',
+    published: "published",
+    query: [{
+      "property": "urlPath",
+      "operator": "is",
+      "value": "/"
+    }],
+    data: transformedData
+  })
+
+  console.log('Response status:', res.status)
+}
 
 main().catch(err => {
-  console.log(err)
+  console.error('Error details:', {
+    message: err.message,
+    stack: err.stack,
+    data: err.response?.data
+  })
 })
