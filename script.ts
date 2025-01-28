@@ -2,7 +2,7 @@ const axios = require('axios');
 const newContent = require('./newContent.json');
 
 const MODEL_NAME = 'bizzkit-data' // Changed to indicate this is a data model
-const PRIVATE_API_KEY = 'bpk-6047a01056024e5d920f996dbd919ebf' // Remove the 'bpk-' prefix
+const PRIVATE_API_KEY = 'bpk-xxxxxxxxxxxxx' 
 
 async function postData(body: any) {
   const res = await axios({
